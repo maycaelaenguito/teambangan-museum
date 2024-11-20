@@ -1,5 +1,8 @@
 <template>
   <div id="app" class="digital-museum">
+    <div class="hide">
+      <h4>Sorry, this musuem is not accessible to your device. Open it on bigger devices. 1280px above.</h4>
+    </div>
     <!-- Header Section -->
     <section class="museum-header">
       <h1>Welcome to Ocho-ocho Digital Museum</h1>
