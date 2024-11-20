@@ -1,0 +1,324 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Libre+Caslon+Display&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+  html, body, section, .museum-section{
+    block-size: 100%;
+    margin: 0;
+    padding: 0;
+    font-family: "Poppins", sans-serif;
+  }
+
+  html {
+    scroll-snap-type: y mandatory;
+    scroll-behavior: smooth;
+  }
+
+  .digital-museum {
+    color: #333;
+  }
+
+  section, .museum-section {
+    scroll-snap-align: start;
+    scroll-snap-stop: always;
+    transition: all 2s ease-in-out;
+    transition-delay: 0s;
+  }
+
+  .sections-container{
+    margin: 0;
+    gap: 0;
+  }
+  
+  .museum-header {
+    text-align: center;
+    color: white;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 300;
+    font-style: normal;
+    background-image: url(./assets/bg-retro-2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+
+  .museum-header h1{
+    font-size: 5rem;
+    text-transform: uppercase;
+    padding: 0 5%;
+    line-height: 7rem;
+    margin: 0;
+    margin-bottom: 4rem;
+  }
+
+  .h-description{
+    height: auto;
+    padding: 1rem 0;
+    background-color: rgba(0, 0, 0, 0.267);
+    margin-top: 2rem;
+  }
+
+  .museum-header p{
+    font-family: "Poppins", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+    font-size: 1.2rem;
+    padding: 0 15%;
+    color: #ffffff;
+  }
+
+  .header-btn{
+    margin-top: 4rem;
+    animation: pulse 1s infinite;
+  }
+
+  @keyframes pulse {
+    0% {
+      transform: scale(1);
+    }
+    50% {
+      transform: scale(1.4);
+    }
+    100% {
+      transform: scale(1);
+    }
+  }
+  
+  .group-members{
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    align-items: center;
+  }
+  
+  .group-section {
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 1.5fr 1fr;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    padding: 0 10%;
+    background-color: rgb(255, 250, 240);
+  }
+
+  .group-section h1{
+    font-family: "Inter", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+    color: #000;
+    font-size: 5rem;
+  }
+  .group-section span{
+    color: #000;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 1.3rem;
+    display: flex;
+    justify-content: left;
+    align-items: center;
+  }
+
+  .group-members{
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+  }
+  
+  .group-name{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+  }
+  .body-se{
+    background-color: red;
+  }
+
+  .sections-container h3{
+    font-family: "Inter", sans-serif;
+    font-weight: 400;
+    font-size: 3rem;
+    padding-bottom: 5rem;
+    text-shadow: 
+    1px 1px 0px rgba(255, 255, 255, 0.7),
+    2px 2px 0px rgba(255, 255, 255, 0.7),
+    3px 3px 0px rgba(255, 255, 255, 0.7), 
+    4px 4px 0px rgba(255, 255, 255, 0.7),
+    5px 5px 0px rgba(255, 255, 255, 0.7); 
+  }
+  
+  .museum-section {
+    padding:  0 10%;
+    color: black;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .subsections{
+    display: grid;
+    gap: 5rem;
+    grid-template-columns: 1fr 1fr 1fr;
+    width: 100%;
+  }
+  
+  .subsection {
+    position: relative;
+    width: 100%;
+    height: 400px;
+    background-size: cover;
+    background-position: center;
+    overflow: hidden;
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: column;
+    border-radius: 1.5rem;
+    cursor: pointer;
+    transition: background-size 5s ease-in-out, background-position 5s ease-in-out;
+  }
+  
+  .subsection:hover {
+    background-size: 150%; /* Zoom in the background */
+    background-position: center;
+  }
+  
+  
+  .subsection::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.362);
+    z-index: 1;
+  }
+  
+  .subsection-title {
+    position: relative;
+    z-index: 2;
+    color: white;
+    font-family: "Poppins", sans-serif;
+    letter-spacing: 2px;
+    font-weight: 400;
+    font-size: 1.3rem;
+    padding: 0px 40px;
+    text-align: left;
+    width: auto;
+    border-radius: 0 0 5px 5px;
+    text-wrap: wrap;
+  }
+  
+  button {
+    position: relative;
+    font-family: "Poppins", sans-serif;
+    z-index: 2; /* Keep the button above the overlay */
+    color: white;
+    border: none;
+    margin: 20px 40px;
+    cursor: pointer;
+    font-weight: 600px;
+    font-size: 1rem;
+    text-transform: uppercase;
+    display: flex;
+    flex-direction: row;
+    justify-content: left;
+    max-width: 230px;
+    background-color: transparent;
+    padding: 0;
+    text-align: left;
+  }
+  
+  button svg{
+    padding: 0;
+    margin: 0;
+  }
+  button:hover {
+    transform: scale(10px);
+  }  
+  
+  .modal-overlay {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5); /* Dark overlay for the modal */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1000; /* Ensure the modal overlay is above other elements */
+  }
+  
+  .modal-content {
+    position: relative;
+    z-index: 1001; /* Ensure the modal content is above the overlay */
+    background-color: #000000;
+    padding: 30px;
+    border-radius: 1.5rem;
+    text-align: center;
+    width: 70vw;
+    height: 80vh;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3); /* Add shadow for better visibility */
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    overflow-y: scroll;
+  }
+
+  .modal-content h3{
+    font-family: "Inter", sans-serif;
+    font-size: 2rem;
+    font-weight: 500;
+    padding: 0 10%;
+  }
+
+  .modal-content p{
+    padding: 2rem 5rem;
+  }
+  
+  .close-modal {
+    position: absolute;
+    top: 10px;
+    right: 0px;
+    background: #ffffff;
+    color: black;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 10px;
+    cursor: pointer;
+    z-index: 1002; /* Ensure the close button is above the modal content */
+  }
+  
+  .close-modal:hover {
+    background: #B51F1F;
+    color: #ffffff;
+  }
+  
+
+  .images-container {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+    margin-top: 20px;
+  }
+  .modal-image { 
+    width: 15vw;
+    height: 300px; /* Adjust height as needed */
+    object-fit: cover; /* Ensure the image maintains aspect ratio */
+    border: 1.2rem solid #ffffff; /* Black border of 2px width */
+    margin: 5px; /* Add spacing around images */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* Optional: Add shadow for a stylish look */
+    margin-bottom: 2rem;
+  }
+  
+  .modal-image img{
+    width: 100%;
+  }
