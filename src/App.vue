@@ -107,6 +107,7 @@ export default {
       groupMembers: [
         "Jhan Philippe Moloa",
         "Maycaela Enguito",
+        "Jether Daniel Torres",
         "Jael Emmanuel Santos",
         "Lilian Josephine Nitura",
         "Mhaydz Jeanette Caparan",
