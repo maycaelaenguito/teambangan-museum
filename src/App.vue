@@ -108,9 +108,6 @@ export default {
         "Jhan Philippe Moloa",
         "Maycaela Enguito",
         "Jether Daniel Torres",
-        "Jael Emmanuel Santos",
-        "Lilian Josephine Nitura",
-        "Mhaydz Jeanette Caparan",
       ],
       sections: [
         {
