@@ -186,78 +186,78 @@ export default {
             },
           ],
         },
-        {
-          title: "Space",
-          subsections: [
-            {
-              title: "The opening of SM Mall of Asia",
-              image: require("@/assets/section 3/sm-mall-of-asia-4672.jpg"),
-              description:
-                "The opening of SM Mall of Asia in 2006 transformed Philippine popular culture by redefining public space. As a major hub for shopping, dining, and entertainment, it fostered social interaction and showcased modernity, becoming a significant cultural landmark that shaped leisure and lifestyle for many Filipinos. The opening of SM Mall of Asia in the 2000s created a dynamic venue for Filipinos, encouraging social gatherings and recreational activities. It became a cultural landmark that enriched shopping and entertainment experiences, reflecting the country's evolving consumer culture and serving as a central hub for families and youth.",
-                images: [
-                require("@/assets/gallery 3/moa1.jpg"),
-                require("@/assets/gallery 3/moa2.jpg"),
-                require("@/assets/gallery 3/moa3.jpg"),
-                ],
-            },
-            {
-              title: "PBCom Tower",
-              image: require("@/assets/section 3/pbcom-original-main.jpg"),
-              description: "The PBCom Tower, completed in 2000, became a symbol of modernity and economic growth in the Philippines. As the tallest building in the country at the time, it represented the rise of urban development and corporate culture, reflecting the aspirations of Filipinos during the early 2000s. The building’s completion in the 2000s inspired a sense of national pride and ambition among Filipinos. As a symbol of progress and urbanization, it represented the country's growing economy and modern identity, motivating people to aspire for success and contributing to the development of Metro Manila.",
-              images: [
-              require("@/assets/gallery 3/pbcom1.jpg"),
-              require("@/assets/gallery 3/pbcom2.jpg"),
-              require("@/assets/gallery 3/pbcom3.jpg"),
-              ],
-            },
-            {
-              title: "Manila Ocean Park",
-              image: require("@/assets/section 3/ManilaOceanParkAttractionsPass-KlookIndia.jpg"),
-              description: "Manila Ocean Park, opened in 2008, was the first marine-themed park in the Philippines, merging entertainment and education. It showcased marine biodiversity and promoted environmental awareness, reflecting a growing appreciation for conservation. Its unique attractions emphasized family-oriented recreation and enhanced the cultural landscape of the country. This impacted the Philippines by boosting tourism and enhancing the country’s reputation as a marine destination. It attracted local and international visitors, supporting the economy through increased spending in hospitality and related services. The park also raised awareness of marine conservation, encouraging educational initiatives and fostering a greater appreciation for biodiversity, thus contributing to the cultural and environmental landscape of the nation.",
-              images: [
-              require("@/assets/gallery 3/oc1.jpg"),
-              require("@/assets/gallery 3/oc2.webp"),
-              require("@/assets/gallery 3/oc3.jpg"),
-              ],
-            },
-          ],
-        },
-        {
-          title: "Time",
-          subsections: [
-            {
-              title: "Social Media",
-              image: require("@/assets/section 4/socmed.png"),
-              description:
-                "Early 2000's marked the rapid evolution of social media, transforming how people connected, shared content, and communicated globally. Early platforms like Friendster (2002) and MySpace (2003) introduced the concept of online social networking, with MySpace becoming a cultural phenomenon through customizable profiles and music discovery. Facebook’s launch in 2004 signaled a new era, initially targeting college students but quickly expanding to a global audience. Its introduction of the News Feed in 2006 revolutionized how users consume content, establishing itself as the dominant platform. Meanwhile, LinkedIn (2003) catered to professional networking, and YouTube (2005) became the go-to site for video sharing, redefining entertainment and content creation. The rise of mobile technology, fueled by the iPhone in 2007, made social media more accessible, boosting platforms like Twitter, which popularized real-time updates and hashtags. By 2010, social media had become a global phenomenon, reshaping communication, marketing, and media consumption while sparking conversations about privacy and digital identity.",
-              images: [
-              require("@/assets/gallery 4/soc1.webp"),
-              require("@/assets/gallery 4/soc2.webp"),
-              require("@/assets/gallery 4/soc3.webp"),
-              ],
-            },
-            {
-              title: "The Maguindanao Massacre",
-              image: require("@/assets/section 4/19ampatuan11.jpg"),
-              description: "The Maguindanao massacre, also known as the Ampatuan massacre, occurred on November 23, 2009, in the Philippines, and is one of the deadliest incidents of political violence in the country’s history. Fifty-eight people, including 32 journalists, were killed in an ambush tied to a political rivalry between the Ampatuan and Mangudadatu families. The victims were brutally murdered and buried in mass graves, drawing national and international condemnation. The decade-long legal battle ended in 2019 with the conviction of 28 individuals, including key members of the Ampatuan clan, who were sentenced to life imprisonment. The massacre remains a chilling reminder of the dangers of political violence and threats to press freedom, commemorated annually to honor the victims and advocate for justice.",
-              images: [
-              require("@/assets/gallery 4/amp1.webp"),
-              require("@/assets/gallery 4/amp2.webp"),
-              require("@/assets/gallery 4/amp3.jpg"),
-              ],
-            },
-            {
-              title: "Manny “PacMan” Pacquiao",
-              image: require("@/assets/section 4/e80523967b8ce95f85f3791c190cacfb-getty-boxing-us-phi-de_la_hoya-pacquiao.jpg"),
-              description: "From 2000 to 2010, Manny Pacquiao rose to boxing greatness with landmark victories over legends like Marco Antonio Barrera, Érik Morales, and Juan Manuel Márquez, establishing himself as a dominant force in multiple weight classes. His victory over Oscar De La Hoya in 2008 marked a turning point, propelling him to global stardom.By the end of the decade, Pacquiao had become the first eight-division world champion with emphatic wins over Ricky Hatton and Miguel Cotto. His explosive power, speed, and versatility earned him the title of Fighter of the Decade, cementing his legacy as one of the sport’s all-time greats.",
-              images: [
-              require("@/assets/gallery 4/pac1.webp"),
-              require("@/assets/gallery 4/pac2.webp"),
-              require("@/assets/gallery 4/pac3.jpg"),
-              ],
-            },
-          ],
-        },
+        // {
+        //   title: "Space",
+        //   subsections: [
+        //     {
+        //       title: "The opening of SM Mall of Asia",
+        //       image: require("@/assets/section 3/sm-mall-of-asia-4672.jpg"),
+        //       description:
+        //         "The opening of SM Mall of Asia in 2006 transformed Philippine popular culture by redefining public space. As a major hub for shopping, dining, and entertainment, it fostered social interaction and showcased modernity, becoming a significant cultural landmark that shaped leisure and lifestyle for many Filipinos. The opening of SM Mall of Asia in the 2000s created a dynamic venue for Filipinos, encouraging social gatherings and recreational activities. It became a cultural landmark that enriched shopping and entertainment experiences, reflecting the country's evolving consumer culture and serving as a central hub for families and youth.",
+        //         images: [
+        //         require("@/assets/gallery 3/moa1.jpg"),
+        //         require("@/assets/gallery 3/moa2.jpg"),
+        //         require("@/assets/gallery 3/moa3.jpg"),
+        //         ],
+        //     },
+        //     {
+        //       title: "PBCom Tower",
+        //       image: require("@/assets/section 3/pbcom-original-main.jpg"),
+        //       description: "The PBCom Tower, completed in 2000, became a symbol of modernity and economic growth in the Philippines. As the tallest building in the country at the time, it represented the rise of urban development and corporate culture, reflecting the aspirations of Filipinos during the early 2000s. The building’s completion in the 2000s inspired a sense of national pride and ambition among Filipinos. As a symbol of progress and urbanization, it represented the country's growing economy and modern identity, motivating people to aspire for success and contributing to the development of Metro Manila.",
+        //       images: [
+        //       require("@/assets/gallery 3/pbcom1.jpg"),
+        //       require("@/assets/gallery 3/pbcom2.jpg"),
+        //       require("@/assets/gallery 3/pbcom3.jpg"),
+        //       ],
+        //     },
+        //     {
+        //       title: "Manila Ocean Park",
+        //       image: require("@/assets/section 3/ManilaOceanParkAttractionsPass-KlookIndia.jpg"),
+        //       description: "Manila Ocean Park, opened in 2008, was the first marine-themed park in the Philippines, merging entertainment and education. It showcased marine biodiversity and promoted environmental awareness, reflecting a growing appreciation for conservation. Its unique attractions emphasized family-oriented recreation and enhanced the cultural landscape of the country. This impacted the Philippines by boosting tourism and enhancing the country’s reputation as a marine destination. It attracted local and international visitors, supporting the economy through increased spending in hospitality and related services. The park also raised awareness of marine conservation, encouraging educational initiatives and fostering a greater appreciation for biodiversity, thus contributing to the cultural and environmental landscape of the nation.",
+        //       images: [
+        //       require("@/assets/gallery 3/oc1.jpg"),
+        //       require("@/assets/gallery 3/oc2.webp"),
+        //       require("@/assets/gallery 3/oc3.jpg"),
+        //       ],
+        //     },
+        //   ],
+        // },
+        // {
+        //   title: "Time",
+        //   subsections: [
+        //     {
+        //       title: "Social Media",
+        //       image: require("@/assets/section 4/socmed.png"),
+        //       description:
+        //         "Early 2000's marked the rapid evolution of social media, transforming how people connected, shared content, and communicated globally. Early platforms like Friendster (2002) and MySpace (2003) introduced the concept of online social networking, with MySpace becoming a cultural phenomenon through customizable profiles and music discovery. Facebook’s launch in 2004 signaled a new era, initially targeting college students but quickly expanding to a global audience. Its introduction of the News Feed in 2006 revolutionized how users consume content, establishing itself as the dominant platform. Meanwhile, LinkedIn (2003) catered to professional networking, and YouTube (2005) became the go-to site for video sharing, redefining entertainment and content creation. The rise of mobile technology, fueled by the iPhone in 2007, made social media more accessible, boosting platforms like Twitter, which popularized real-time updates and hashtags. By 2010, social media had become a global phenomenon, reshaping communication, marketing, and media consumption while sparking conversations about privacy and digital identity.",
+        //       images: [
+        //       require("@/assets/gallery 4/soc1.webp"),
+        //       require("@/assets/gallery 4/soc2.webp"),
+        //       require("@/assets/gallery 4/soc3.webp"),
+        //       ],
+        //     },
+        //     {
+        //       title: "The Maguindanao Massacre",
+        //       image: require("@/assets/section 4/19ampatuan11.jpg"),
+        //       description: "The Maguindanao massacre, also known as the Ampatuan massacre, occurred on November 23, 2009, in the Philippines, and is one of the deadliest incidents of political violence in the country’s history. Fifty-eight people, including 32 journalists, were killed in an ambush tied to a political rivalry between the Ampatuan and Mangudadatu families. The victims were brutally murdered and buried in mass graves, drawing national and international condemnation. The decade-long legal battle ended in 2019 with the conviction of 28 individuals, including key members of the Ampatuan clan, who were sentenced to life imprisonment. The massacre remains a chilling reminder of the dangers of political violence and threats to press freedom, commemorated annually to honor the victims and advocate for justice.",
+        //       images: [
+        //       require("@/assets/gallery 4/amp1.webp"),
+        //       require("@/assets/gallery 4/amp2.webp"),
+        //       require("@/assets/gallery 4/amp3.jpg"),
+        //       ],
+        //     },
+        //     {
+        //       title: "Manny “PacMan” Pacquiao",
+        //       image: require("@/assets/section 4/e80523967b8ce95f85f3791c190cacfb-getty-boxing-us-phi-de_la_hoya-pacquiao.jpg"),
+        //       description: "From 2000 to 2010, Manny Pacquiao rose to boxing greatness with landmark victories over legends like Marco Antonio Barrera, Érik Morales, and Juan Manuel Márquez, establishing himself as a dominant force in multiple weight classes. His victory over Oscar De La Hoya in 2008 marked a turning point, propelling him to global stardom.By the end of the decade, Pacquiao had become the first eight-division world champion with emphatic wins over Ricky Hatton and Miguel Cotto. His explosive power, speed, and versatility earned him the title of Fighter of the Decade, cementing his legacy as one of the sport’s all-time greats.",
+        //       images: [
+        //       require("@/assets/gallery 4/pac1.webp"),
+        //       require("@/assets/gallery 4/pac2.webp"),
+        //       require("@/assets/gallery 4/pac3.jpg"),
+        //       ],
+        //     },
+        //   ],
+        // },
         
         {
           title: "Performance",
@@ -295,42 +295,43 @@ export default {
             },
           ],
         },
-        {
-          title: "Technology",
-          subsections: [
-            {
-              title: "NBN-ZTE Scandal",
-              image: require("@/assets/section 6/zte.jpg"),
-              description:
-                "The NBN-ZTE Scandal unravelled in the Philippines in 2007, epitomising the pernicious pitfalls of bureaucracy entwined with corruption. The controversy revolved around a $329-million National Broadband Network contract awarded to ZTE Corporation, mired by clandestine collusion and allegations of political perfidy. Lacerated by dissidence, the deal was scrutinised for its exorbitant cost and lack of transparency, exposing a dissonance between public interest and political priorities, which counter-obeisantly begets into painting a picture of systemic malfeasance through accusations of bribes, including kickbacks involving high-ranking officials. Chronologging the fallout, the incident fueled a fervour of protests and demand for deliverance from corruption’s grip. The NBN-ZTE Scandal remains a bellwether for administrative reform, serving as a discursive crucible for anti-corruption initiatives, especially given, at present, in an era of heightened scrutiny, such scandals have cultivated a penchant for greater deference to transparency and accountability measures. However, the pervasive persistence of systemic fragilities continues to pose significant challenges, as obsolete practices and institutional inertia enervate reform initiatives. The scandal’s legacy, juxtaposed against modern digitalisation endeavours, emphasises an enduring imperative for safeguarding public trust and dismantling systemic malpractices.",
-              images: [
-              require("@/assets/gallery 6/zte1.jpg"),
-              require("@/assets/gallery 6/zte2.jpg"),
-              require("@/assets/gallery 6/zte3.jpg"),
-              ],
-            },
-            {
-              title: "The ILOVEYOU Virus",
-              image: require("@/assets/section 6/7aab822f-c2d9-4f96-9198-6c03d3e8a10a_596x562.jpg"),
-              description: "The ILOVEYOU virus, an archetypal example of a catastrophic cybersecurity conundrum, emerged on May 4, 2000, as a furtive and insidious malware attack originating in the Philippines. It exploited human proclivity for emotional vulnerability, spreading via email with the subject line “ILOVEYOU” and an attached file masquerading as a benign text document. Upon opening, the script unleashed a digital deluge that corrupted data, overwrote files, and propagated itself to all contacts in the victim's address book; this machination, fueled by naïve trust in technology, caused widespread fragmentation of global IT infrastructure, crippling systems from corporations to governments. Its impact was both egregious and inexorable, with damages estimated to exceed $10 billion globally, exposing the defenceless state of early 2000s cybersecurity protocols. Today, the ILOVEYOU virus serves as an evocative cautionary tale in the age of increasingly esoteric and labyrinthine cyber threats. While modern systems boast resilience through advanced firewalls, heuristic algorithms, and AI-driven defences, the dissonance between technological progress and user education remains a persistent predicament. The virus’s legacy underscores the need to amalgamate robust security measures with a heightened awareness of social engineering tactics. The rise of benign-looking phishing attacks and ransomware demonstrates the dialectic of innovation versus exploitation, where attackers exploit the same ineffable connectivity that drives progress. In a setting often beleaguered by resource constraints, the fight against cyber threats demands magnanimous collaboration and vigilance to avoid repeating the anachronistic errors of the past.",
-              images: [
-              require("@/assets/gallery 6/ily1.webp"),
-              require("@/assets/gallery 6/ily2.webp"),
-              require("@/assets/gallery 6/ily3.jpg"),
-              ],
-            },
-            {
-              title: "Mobile Phones",
-              image: require("@/assets/section 6/360_F_69377756_QBf3gfSHB3hXoGkscIeB9yi2oNEBYrip.jpg"),
-              description: "From 2000 to 2010, mobile phones evolved from basic feature phones to advanced smartphones. Early in the decade, brands like Nokia and Motorola dominated with compact designs, SMS/MMS messaging, and basic cameras, while 2G and 3G networks enabled faster browsing and email. Stylish devices like the Motorola Razr set trends, and multimedia features like Bluetooth and MP3 players became standard. The late 2000s saw the smartphone revolution with the launch of the iPhone (2007) and Android (2008). Touchscreens, app stores, GPS, and faster 3G networks transformed phones into all-in-one devices for browsing, social media, and entertainment, paving the way for modern mobile technology.",
-              images: [
-              require("@/assets/gallery 6/mob1.webp"),
-              require("@/assets/gallery 6/mob2.webp"),
-              require("@/assets/gallery 6/mob3.jpg"),
-              ],
-            },
-          ],
-        },
+
+        // {
+        //   title: "Technology",
+        //   subsections: [
+        //     {
+        //       title: "NBN-ZTE Scandal",
+        //       image: require("@/assets/section 6/zte.jpg"),
+        //       description:
+        //         "The NBN-ZTE Scandal unravelled in the Philippines in 2007, epitomising the pernicious pitfalls of bureaucracy entwined with corruption. The controversy revolved around a $329-million National Broadband Network contract awarded to ZTE Corporation, mired by clandestine collusion and allegations of political perfidy. Lacerated by dissidence, the deal was scrutinised for its exorbitant cost and lack of transparency, exposing a dissonance between public interest and political priorities, which counter-obeisantly begets into painting a picture of systemic malfeasance through accusations of bribes, including kickbacks involving high-ranking officials. Chronologging the fallout, the incident fueled a fervour of protests and demand for deliverance from corruption’s grip. The NBN-ZTE Scandal remains a bellwether for administrative reform, serving as a discursive crucible for anti-corruption initiatives, especially given, at present, in an era of heightened scrutiny, such scandals have cultivated a penchant for greater deference to transparency and accountability measures. However, the pervasive persistence of systemic fragilities continues to pose significant challenges, as obsolete practices and institutional inertia enervate reform initiatives. The scandal’s legacy, juxtaposed against modern digitalisation endeavours, emphasises an enduring imperative for safeguarding public trust and dismantling systemic malpractices.",
+        //       images: [
+        //       require("@/assets/gallery 6/zte1.jpg"),
+        //       require("@/assets/gallery 6/zte2.jpg"),
+        //       require("@/assets/gallery 6/zte3.jpg"),
+        //       ],
+        //     },
+        //     {
+        //       title: "The ILOVEYOU Virus",
+        //       image: require("@/assets/section 6/7aab822f-c2d9-4f96-9198-6c03d3e8a10a_596x562.jpg"),
+        //       description: "The ILOVEYOU virus, an archetypal example of a catastrophic cybersecurity conundrum, emerged on May 4, 2000, as a furtive and insidious malware attack originating in the Philippines. It exploited human proclivity for emotional vulnerability, spreading via email with the subject line “ILOVEYOU” and an attached file masquerading as a benign text document. Upon opening, the script unleashed a digital deluge that corrupted data, overwrote files, and propagated itself to all contacts in the victim's address book; this machination, fueled by naïve trust in technology, caused widespread fragmentation of global IT infrastructure, crippling systems from corporations to governments. Its impact was both egregious and inexorable, with damages estimated to exceed $10 billion globally, exposing the defenceless state of early 2000s cybersecurity protocols. Today, the ILOVEYOU virus serves as an evocative cautionary tale in the age of increasingly esoteric and labyrinthine cyber threats. While modern systems boast resilience through advanced firewalls, heuristic algorithms, and AI-driven defences, the dissonance between technological progress and user education remains a persistent predicament. The virus’s legacy underscores the need to amalgamate robust security measures with a heightened awareness of social engineering tactics. The rise of benign-looking phishing attacks and ransomware demonstrates the dialectic of innovation versus exploitation, where attackers exploit the same ineffable connectivity that drives progress. In a setting often beleaguered by resource constraints, the fight against cyber threats demands magnanimous collaboration and vigilance to avoid repeating the anachronistic errors of the past.",
+        //       images: [
+        //       require("@/assets/gallery 6/ily1.webp"),
+        //       require("@/assets/gallery 6/ily2.webp"),
+        //       require("@/assets/gallery 6/ily3.jpg"),
+        //       ],
+        //     },
+        //     {
+        //       title: "Mobile Phones",
+        //       image: require("@/assets/section 6/360_F_69377756_QBf3gfSHB3hXoGkscIeB9yi2oNEBYrip.jpg"),
+        //       description: "From 2000 to 2010, mobile phones evolved from basic feature phones to advanced smartphones. Early in the decade, brands like Nokia and Motorola dominated with compact designs, SMS/MMS messaging, and basic cameras, while 2G and 3G networks enabled faster browsing and email. Stylish devices like the Motorola Razr set trends, and multimedia features like Bluetooth and MP3 players became standard. The late 2000s saw the smartphone revolution with the launch of the iPhone (2007) and Android (2008). Touchscreens, app stores, GPS, and faster 3G networks transformed phones into all-in-one devices for browsing, social media, and entertainment, paving the way for modern mobile technology.",
+        //       images: [
+        //       require("@/assets/gallery 6/mob1.webp"),
+        //       require("@/assets/gallery 6/mob2.webp"),
+        //       require("@/assets/gallery 6/mob3.jpg"),
+        //       ],
+        //     },
+        //   ],
+        // },
       ],
       
       showModal: false,
