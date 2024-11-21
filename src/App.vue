@@ -123,7 +123,7 @@ export default {
             },
             {
               title: "Bagyong Milenyo",
-              image: require("@/assets/section 1/2.png"),
+              image: require("@/assets/section 1/3.png"),
               description: "Bagyong Milenyo, or Typhoon Xangsane, was a devastating tropical cyclone that struck the Philippines in September 2006. It caused widespread destruction in Luzon, resulting in severe flooding, significant infrastructure damage, and loss of life, highlighting disaster preparedness challenges. Bagyong Milenyo (Typhoon Xangsane) struck the Philippines from September 25-29, 2006, causing extensive damage and 213 fatalities. It affected over 4 million people, particularly in Metro Manila, with losses totaling P6.6 billion. The typhoon highlighted safety issues with billboards, leading to their removal after fatalities caused by falling structures",
               images: [
               require("@/assets/gallery 1/bgm1.jpg"),
@@ -133,7 +133,7 @@ export default {
             },
             {
               title: "Philippine Airlines Flight 812",
-              image: require("@/assets/section 1/3.png"),
+              image: require("@/assets/section 1/2.png"),
               description: "On May 25, 2000, Philippine Airlines Flight 812 was hijacked before landing in Manila. Armed with a gun and a grenade, the hijacker demanded valuables and attempted to escape via a homemade parachute. He died three days later when the parachute failed to deploy. Reginald Chua hijacked Philippine Airlines Flight 812, citing family abandonment as his motivation. Armed with a pistol and grenade, he demanded money before attempting to escape via parachute. His behavior during the incident raised concerns about his mental health, and his body was later found in Quezon.",
               images: [
               require("@/assets/gallery 1/pal1.jpg"),
