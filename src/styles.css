@@ -245,6 +245,8 @@
     border-radius: 0 0 5px 5px;
     text-wrap: wrap;
   }
+
+  .subsection button
   
   button {
     position: relative;
@@ -260,6 +262,7 @@
     display: flex;
     flex-direction: row;
     justify-content: left;
+    align-items: center;
     max-width: 230px;
     background-color: transparent;
     padding: 0;

@@ -74,8 +74,6 @@
         </div>
       </div>
     </div>
-
-
     </section>
 
     <!-- Virtual Room Modal -->
@@ -97,7 +95,6 @@
     </div>
   </div>
 </template>
-
 
 <script>
 export default {
@@ -154,21 +151,21 @@ export default {
               title: "Miss International 2005 Victory",
               image: require("@/assets/section 2/2005-miss-international-winner-philippines-precious-lara-550nw-7828522e.jpg"),
               description:
-                "In 2005, Precious Lara Quigaman’s Miss International win celebrated diverse Filipino beauty and sparked national pride. This victory shifted the focus from traditional beauty standards to a more inclusive view, highlighting intelligence and cultural identity, ultimately reshaping self-image in Philippine popular culture during the decade. Precious Lara’s Miss International win in 2005 influenced Philippine popular culture by promoting a broader definition of beauty. It encouraged self-acceptance and highlighted the importance of intelligence and cultural identity, leading to a more inclusive perspective on body image and self-worth during the 2000s.",
-                images: [
+              "In 2005, Precious Lara Quigaman’s Miss International win celebrated diverse Filipino beauty and sparked national pride. This victory shifted the focus from traditional beauty standards to a more inclusive view, highlighting intelligence and cultural identity, ultimately reshaping self-image in Philippine popular culture during the decade. Precious Lara’s Miss International win in 2005 influenced Philippine popular culture by promoting a broader definition of beauty. It encouraged self-acceptance and highlighted the importance of intelligence and cultural identity, leading to a more inclusive perspective on body image and self-worth during the 2000s.",
+              images: [
                 require("@/assets/gallery 2/2005-miss-international-winner-philippines-precious-lara-550nw-7828522b.jpg"),
                 require("@/assets/gallery 2/845806bf9c531275af1bae331f79383a.jpg"),
                 require("@/assets/gallery 2/1659413732_966318566_16_ent.png"),
-                ],
+              ],
             },
             {
               title: "Marian Rivera crowned as FHM Philippines' Sexiest Woman for 2008",
               image: require("@/assets/section 2/fhm_main.jpg"),
               description: "Marian Rivera's rise to fame through her role in the hit show Marimar led to her crowning as FHM Philippines' Sexiest Woman in 2008. This victory not only celebrated her beauty but also brought the FHM awards into Philippine households, elevating the magazine's profile and influencing popular culture. Rivera's win showcased a blend of talent and attractiveness, encouraging greater acceptance of diverse beauty standards in the process. Marian Rivera's FHM win in 2008 influenced Philippine popular culture by reinforcing beauty ideals that emphasized physical appearance. While she inspired body positivity, it also risked promoting unrealistic standards among young fans, potentially impacting their self-image and leading to pressure to conform to these ideals.",
               images: [
-              require("@/assets/gallery 2/mar1.jpg"),
-              require("@/assets/gallery 2/mar2.jpg"),
-              require("@/assets/gallery 2/mar3.webp"),
+                require("@/assets/gallery 2/mar1.jpg"),
+                require("@/assets/gallery 2/mar2.jpg"),
+                require("@/assets/gallery 2/mar3.webp"),
               ],
             },
             {
@@ -176,9 +173,9 @@ export default {
               image: require("@/assets/section 2/2000s-pop-punk-emo-culture-collage_818261-41677.avif"),
               description: "Emo culture in the 2000s reshaped Philippine popular culture by promoting individuality and emotional expression. It influenced body image through distinctive fashion choices and encouraged discussions about mental health, allowing youth to embrace vulnerability and authenticity, ultimately transforming self-image and perceptions of beauty during the decade. Emo culture in the 2000s empowered Filipino youth by promoting individuality and personal expression. It encouraged them to embrace their unique identities and emotions, challenging societal norms and fostering a sense of belonging within a community that valued authenticity and diverse self-representation.",
               images: [
-              require("@/assets/gallery 2/emo1.jpg"),
-              require("@/assets/gallery 2/emo2.jpg"),
-              require("@/assets/gallery 2/emo3.jpg"),
+                require("@/assets/gallery 2/emo1.jpg"),
+                require("@/assets/gallery 2/emo2.jpg"),
+                require("@/assets/gallery 2/emo3.jpg"),
               ],
             },
           ],
