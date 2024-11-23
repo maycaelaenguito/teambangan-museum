@@ -679,54 +679,44 @@ export default {
           title: "2030",
           subsections: [
             {
-              title: "Charice Pempengco on Oprah",
+              title: "Augmented Reality (AR) in Live Filipino Performances",
               image: require("@/assets/section 1/cover.png"),
               description:
-                "Jake Cyrus, formerly known as Charice Pempengco, captivated audiences with her 2008 appearance on The Oprah Winfrey Show, showcasing Filipino talent on a global stage. Her powerful performances inspired national pride and encouraged aspiring artists, marking a significant moment in Philippine popular culture during the 2000s. Jake Cyrus's 2008 appearance on Oprah instilled a deep sense of pride among Filipino youth, as they saw one of their own achieving global recognition. This milestone inspired them to embrace their cultural identity and aspire to showcase their talents on an international stage.",
+                "Future live performances in the Philippines will integrate AR to create immersive experiences for audiences. Concerts and theater productions could use AR to overlay digital effects onto live acts, allowing performers to interact with holographic elements in real time. This technology would elevate storytelling, giving performers a more dynamic stage to work with and audiences a fully engaging visual spectacle. AR has the potential to transform traditional performances into hybrid digital-physical experiences, attracting younger, tech-savvy audiences.",
               images: [
               require("@/assets/gallery 5/char1.jpg"),
-              require("@/assets/gallery 5/char2.jpg"),
-              require("@/assets/gallery 5/char3.jpg"),
               ],
             },
             {
-              title: "Local Films like Magnifico, One More Chance, & Tanging Yaman",
+              title: "AI-Generated Performers",
               image: require("@/assets/section 1/cover.png"),
-              description: "The success of local films like Magnifico, One More Chance, and Tanging Yaman in the 2000s showcased powerful performances and emphasized family values. These movies resonated with audiences, fostering cultural pride and identity while elevating Philippine cinema as a significant force in the entertainment landscape during the decade. The success of local films in the 2000s instilled a sense of accomplishment as these award-winning movies garnered international recognition. This achievement fostered pride among Filipinos, motivating them to celebrate their cultural contributions and engage more deeply with their heritage.",
+              description: "AI-generated singers, dancers, and influencers could dominate the entertainment industry, with virtual performers headlining concerts and creating content online. These digital personalities, designed to meet evolving trends, might collaborate with human performers or even replace them in certain contexts. While this innovation could lower production costs and cater to niche audiences, it raises questions about authenticity and the value of human creativity in performances. Filipino audiences will likely grapple with balancing their love for genuine talent and fascination with futuristic entertainment.",
               images: [
               require("@/assets/gallery 5/fil1.webp"),
-              require("@/assets/gallery 5/fil2.jpg"),
-              require("@/assets/gallery 5/fil3.jpg"),
               ],
             },
             {
-              title: "Sexbomb Girls - The Spageti Song",
+              title: "Personalized Performances Using Virtual Reality (VR)",
               image: require("@/assets/section 1/cover.png"),
-              description: "The Sexbomb Girls rose to fame through their appearances on Eat Bulaga in the 2000s, captivating audiences with their hit 'The Spaghetti Song'. Their catchy music, playful choreography, and humor celebrated fun and lightheartedness, significantly impacting Philippine popular culture and evolving standards of femininity.",
+              description: "VR will redefine how performances are experienced, allowing Filipino audiences to step into fully immersive environments. Viewers could attend virtual concerts, plays, or dance shows from the comfort of their homes, feeling as though they are in the middle of the action. Performers may create interactive, personalized experiences where audiences can choose their perspectives or even interact with the performance. This shift could redefine the relationship between performers and their audiences, offering new creative opportunities.",
               images: [
               require("@/assets/gallery 5/spag1.jpg"),
-              require("@/assets/gallery 5/spag2.jpg"),
-              require("@/assets/gallery 5/spag3.webp"),
               ],
             },
             {
-              title: "Local Films like Magnifico, One More Chance, & Tanging Yaman",
+              title: "Audience Biometrics",
               image: require("@/assets/section 1/cover.png"),
-              description: "The success of local films like Magnifico, One More Chance, and Tanging Yaman in the 2000s showcased powerful performances and emphasized family values. These movies resonated with audiences, fostering cultural pride and identity while elevating Philippine cinema as a significant force in the entertainment landscape during the decade. The success of local films in the 2000s instilled a sense of accomplishment as these award-winning movies garnered international recognition. This achievement fostered pride among Filipinos, motivating them to celebrate their cultural contributions and engage more deeply with their heritage.",
+              description: "Performances may adapt dynamically based on real-time audience reactions measured through biometrics like heart rate, facial expressions, or applause levels. Filipino performers could use wearable tech or audience-linked sensors to adjust their delivery, choreography, or pacing during a show. This interactive feedback loop would make performances more engaging and personalized, creating a deeper connection between performers and their audiences.",
               images: [
               require("@/assets/gallery 5/fil1.webp"),
-              require("@/assets/gallery 5/fil2.jpg"),
-              require("@/assets/gallery 5/fil3.jpg"),
               ],
             },
             {
-              title: "Sexbomb Girls - The Spageti Song",
+              title: "AI-Generated Music and Choreography",
               image: require("@/assets/section 1/cover.png"),
-              description: "The Sexbomb Girls rose to fame through their appearances on Eat Bulaga in the 2000s, captivating audiences with their hit 'The Spaghetti Song'. Their catchy music, playful choreography, and humor celebrated fun and lightheartedness, significantly impacting Philippine popular culture and evolving standards of femininity.",
+              description: "AI tools may become integral to the creative process in Filipino music, dance, and theater. AI-generated songs and dance routines will assist performers in developing content more efficiently, tailored to audience preferences. Musicians might use AI to create custom tracks for performances, while choreographers use it to design innovative routines. While AI will enhance creativity, debates will persist about its role in replacing human ingenuity and the authenticity of AI-driven performances.",
               images: [
               require("@/assets/gallery 5/spag1.jpg"),
-              require("@/assets/gallery 5/spag2.jpg"),
-              require("@/assets/gallery 5/spag3.webp"),
               ],
             },
           ],
