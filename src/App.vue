@@ -194,7 +194,7 @@ export default {
               image: require("@/assets/section 1/cover.png"),
               description: "Between 2016 and 2022, the Philippines' 'war on drugs,'' initiated by President Rodrigo Duterte, resulted in over 6,000 reported deaths during police anti-drug operations, with human rights groups estimating the toll to be significantly higher. This campaign faced global criticism for alleged extrajudicial killings and lack of due process, sparking investigations by the International Criminal Court (ICC). Despite its controversies, the government defended the campaign as necessary for combating crime and illegal drugs, claiming it significantly reduced drug-related activities in the country.",
               images: [
-              require("@/assets/gallery 1/pal1.jpg"),
+              require("@/assets/gallery 1/drugwar.webp"),
               ],
             },
             {
@@ -203,7 +203,7 @@ export default {
               image: require("@/assets/section 1/cover.png"),
               description: "The YouTube FanFest (YTFF) in the Philippines has become a significant celebration of the country's dynamic content creators. First held in Manila in 2015, the event brought together local and international YouTube stars for performances and fan interactions. It grew annually, featuring creators like Ranz Kyle, Niana Guerrero, and Mikey Bustos. In 2021, the event adapted to a virtual format due to the pandemic, showcasing Filipino talents such as SB19 and The Juans, underscoring the continued vibrancy of the Filipino YouTube community.",
               images: [
-              require("@/assets/gallery 1/pal1.jpg"),
+              require("@/assets/gallery 1/fanfest.jpg"),
               ],
             },
             {
@@ -212,7 +212,7 @@ export default {
               image: require("@/assets/section 1/cover.png"),
               description: "In October 2024, Severe Tropical Storm Kristine (Trami) struck Luzon, Philippines, causing widespread flooding, landslides, and affecting over 6 million people. The storm claimed at least 116 lives, left many missing, and resulted in ₱3.76 billion in agricultural damages. States of calamity were declared in hard-hit areas, highlighting the ongoing need for stronger disaster preparedness in the country.",
               images: [
-              require("@/assets/gallery 1/pal1.jpg"),
+              require("@/assets/gallery 1/kristine.webp"),
               ],
             },
           ],
@@ -228,7 +228,7 @@ export default {
               description:
                 "In the future, a centralized social media hub emerges, integrating major platforms for seamless access. AI moderation ensures safer, regulated spaces by detecting harmful content in real time. Improved connectivity broadens access, making social media more inclusive and efficient for users worldwide.",
               images: [
-              require("@/assets/gallery 1/1_16a082288a7.1665217_806339932_16a082288a7_large.jpg"),
+              require("@/assets/gallery 1/centralizedhub.png"),
               ],
             },
             {
@@ -237,7 +237,7 @@ export default {
               image: require("@/assets/section 1/cover.png"),
               description: "In the future, the Philippines' improved manufacturing capabilities reduce the need for importing goods. Enhanced local production supports domestic demand, strengthens the economy, and fosters self-sufficiency, decreasing reliance on foreign markets.",
               images: [
-              require("@/assets/gallery 1/bgm1.jpg"),
+              require("@/assets/gallery 1/needforimportation.webp"),
               ],
             },
             {
@@ -246,7 +246,7 @@ export default {
               image: require("@/assets/section 1/cover.png"),
               description: "After 2030, Philippine politics is expected to focus on federalism, digital governance, climate policies, and evolving regional autonomy in Bangsamoro. Leadership shifts toward younger, reform-driven figures will reflect changing voter demographics and a push for transparency and inclusive governance.",
               images: [
-              require("@/assets/gallery 1/pal1.jpg"),
+              require("@/assets/gallery 1/phpolitics.webp"),
               ],
             },
             {
@@ -255,7 +255,7 @@ export default {
               image: require("@/assets/section 1/cover.png"),
               description: "Filipino culture will be showcased and celebrated through a dynamic digital medium, blending tradition with innovation. This initiative will curate and present key aspects of Filipino heritage—arts, music, language, history, and values—through engaging, interactive, and visually compelling formats. By leveraging technology, it aims to preserve and promote the richness of Filipino identity to both local and global audiences, ensuring accessibility and inclusivity for future generations.",
               images: [
-              require("@/assets/gallery 1/pal1.jpg"),
+              require("@/assets/gallery 1/digitalphculture.jpg"),
               ],
             },
             {
@@ -264,7 +264,7 @@ export default {
               image: require("@/assets/section 1/cover.png"),
               description: "With multiple typhoons hitting the Philippines in succession and escalating flood severity, the resilience and adaptability of Filipinos in the face of these recurring calamities remain a critical focus. This highlights the urgent need for disaster preparedness, sustainable infrastructure, and community-driven solutions, while underscoring the enduring spirit and resourcefulness of the Filipino people.",
               images: [
-              require("@/assets/gallery 1/pal1.jpg"),
+              require("@/assets/gallery 1/Adaptabilityfilipinos.jpg"),
               ],
             },
           ],
@@ -311,7 +311,7 @@ export default {
               image: require("@/assets/section 1/cover.png"),
               description: "From 2000 to 2010, Filipino fiestas were vibrant celebrations that highlighted traditional culture and created profound sensory and emotional experiences. These events, deeply rooted in local traditions, combined colorful parades, intricate costumes, festive music, and dynamic performances that captivated participants and spectators. The feasts and communal gatherings brought people together to share food, laughter, and stories, strengthening bonds and fostering a deep sense of community. Beyond the visual and auditory spectacle, these festivals evoked feelings of joy, pride, nostalgia, and unity, serving as a living expression of Filipino heritage and identity.",
               images: [
-              require("@/assets/gallery 1/pal1.jpg"),
+              require("@/assets/gallery 1/Fiestas.webp"),
               ],
             },
             {
@@ -320,7 +320,7 @@ export default {
               image: require("@/assets/section 1/cover.png"),
               description: "In 2001, EDSA 2 became a pivotal moment in Philippine history, where peaceful protests against government corruption stirred powerful emotions and a collective sense of purpose among Filipinos. Thousands gathered at the Epifanio de los Santos Avenue (EDSA), expressing outrage, hope, and solidarity through chants, songs, and shared experiences. This nonviolent movement not only demonstrated the power of unity and civic action but also left a lasting impact on the nation's collective memory, evoking pride and determination in the fight for justice and democracy.",
               images: [
-              require("@/assets/gallery 1/pal1.jpg"),
+              require("@/assets/gallery 1/edsa2.webp"),
               ],
             },
           ],
@@ -336,7 +336,7 @@ export default {
               description:
                 "Social media has become a powerful force in shaping emotional well-being and mental health in today’s world. The constant exposure to curated content, instant feedback, and online interactions influences how people perceive themselves and others, often triggering emotions such as joy, anxiety, or inadequacy. This topic explores how social media affects the way individuals process their feelings, respond to sensory stimuli, and navigate the challenges of emotional health in an always-connected digital environment.",
               images: [
-              require("@/assets/gallery 1/1_16a082288a7.1665217_806339932_16a082288a7_large.jpg"),
+              require("@/assets/gallery 1/impactsocmed.webp"),
               ],
             },
             {
@@ -345,7 +345,7 @@ export default {
               image: require("@/assets/section 1/cover.png"),
               description: "Virtual reality (VR) technology in popular culture is redefining how people engage with stories and experiences, offering deeply immersive environments that evoke intense emotional reactions. This topic examines how VR entertainment affects senses and feelings, exploring its ability to elicit empathy, fear, excitement, or awe through realistic simulations and interactive storytelling, shaping emotional responses in entirely new ways.",
               images: [
-              require("@/assets/gallery 1/bgm1.jpg"),
+              require("@/assets/gallery 1/vrentertainment.webp"),
               ],
             },
             {
@@ -354,7 +354,7 @@ export default {
               image: require("@/assets/section 1/cover.png"),
               description: "Original Pilipino Music (OPM) has a powerful emotional impact on Filipinos, fostering feelings of nostalgia, unity, and national pride. This topic examines how popular OPM songs and artists resonate with audiences by reflecting personal and collective experiences, creating deep emotional bonds that celebrate Filipino identity and culture in the present time.",
               images: [
-              require("@/assets/gallery 1/pal1.jpg"),
+              require("@/assets/gallery 1/opm.png"),
               ],
             },
             {
@@ -363,7 +363,7 @@ export default {
               image: require("@/assets/section 1/cover.png"),
               description: "he rising cost of goods and services in the Philippines impacts how Filipinos experience their daily lives, from the sensory adjustments of cutting back on food choices to the emotional stress of financial strain. This topic examines how inflation shapes feelings of anxiety, resilience, and adaptation in the present time.",
               images: [
-              require("@/assets/gallery 1/pal1.jpg"),
+              require("@/assets/gallery 1/inflation.png"),
               ],
             },
             {
@@ -372,7 +372,7 @@ export default {
               image: require("@/assets/section 1/cover.png"),
               description: "The worsening traffic congestion in urban areas like Metro Manila directly impacts Filipinos' daily lives by inducing sensory fatigue from noise, pollution, and long commutes, while also triggering emotions such as frustration, stress, and impatience. This topic examines how these sensory and emotional challenges affect well-being in the present time.",
               images: [
-              require("@/assets/gallery 1/pal1.jpg"),
+              require("@/assets/gallery 1/traffic.jpg"),
               ],
             },
           ],
@@ -387,7 +387,7 @@ export default {
               description:
                 "The escalating effects of climate change, such as rising temperatures, extreme weather events, and environmental degradation, are likely to alter sensory and emotional experiences for future generations. This topic explores how these changes could impact daily life, from coping with physical discomfort to navigating emotional resilience in a transforming environment.",
               images: [
-              require("@/assets/gallery 1/1_16a082288a7.1665217_806339932_16a082288a7_large.jpg"),
+              require("@/assets/gallery 1/climatechange.jpg"),
               ],
             },
             {
@@ -396,7 +396,7 @@ export default {
               image: require("@/assets/section 1/cover.png"),
               description: "The preservation and adaptation of indigenous traditions in the Philippines, such as weaving, rituals, and storytelling, could impact how future generations experience their cultural identity. This topic explores how evolving practices might engage senses and feelings, blending heritage with modern influences while maintaining their cultural significance.",
               images: [
-              require("@/assets/gallery 1/bgm1.jpg"),
+              require("@/assets/gallery 1/phindigenous.jpg"),
               ],
             },
             {
@@ -405,7 +405,7 @@ export default {
               image: require("@/assets/section 1/cover.png"),
               description: "Basketball, a deeply rooted sport in Filipino culture, is poised to evolve with the growth of international leagues, advanced training programs, and rising homegrown talents. This topic examines how these developments might impact sensory experiences, such as the excitement of live games, and evoke feelings of national pride and unity in the future.",
               images: [
-              require("@/assets/gallery 1/pal1.jpg"),
+              require("@/assets/gallery 1/philippinebasketball.webp"),
               ],
             },
             {
@@ -414,12 +414,12 @@ export default {
               image: require("@/assets/section 1/cover.png"),
               description: "The rise of online gambling platforms in the Philippines, driven by advancements in technology, is expected to create more immersive and engaging experiences for users. This topic examines how virtual casinos and interactive betting may affect sensory stimulation, such as vivid graphics and real-time gameplay, and evoke emotions like excitement, stress, or addiction in the coming years.",
               images: [
-              require("@/assets/gallery 1/pal1.jpg"),
+              require("@/assets/gallery 1/onlinegamblinng.jpg"),
               ],
             },
             {
               title: "Acceptance of LGBTQ+ norms",
-              subtitle: "EDSA II",
+              subtitle: "Acceptance of LGBTQ+ norms",
               image: require("@/assets/section 1/cover.png"),
               description: "Tncreasing visibility and acceptance of LGBTQ+ individuals in the Philippines are reshaping societal interactions and personal relationships. This topic examines how this shift affects emotional experiences, such as empowerment or stigma, and sensory expressions in events like Pride marches, media representation, and inclusive spaces.",
               images: [
