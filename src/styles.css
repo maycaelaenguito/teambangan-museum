@@ -350,7 +350,7 @@
     margin-top: 20px;
   }
   .modal-image { 
-    width: 15vw;
+    width: 20vw;
     height: 300px; /* Adjust height as needed */
     object-fit: cover; /* Ensure the image maintains aspect ratio */
     border: 1.2rem solid #ffffff; /* Black border of 2px width */
