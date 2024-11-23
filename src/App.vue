@@ -95,12 +95,7 @@
       </div>
     </div>
   </div>
-
-  
-
-  
 </template>
-
 
 
 <script>
@@ -138,7 +133,7 @@ export default {
               image: require("@/assets/section 1/cover.png"),
               description: "Between 2000 and 2010, the Philippines experienced significant growth in its Business Process Outsourcing (BPO) industry, transforming into a global leader in the sector. In 2000, the BPO industry contributed a modest 0.075% to the country's Gross Domestic Product (GDP). By 2005, this figure had risen to 2.4%, with the Philippines capturing over 3% of the global BPO market. The industry's expansion was driven by factors such as a highly skilled, English-proficient workforce and competitive labor costs. In 2010, the Philippines was declared the world's BPO capital, employing approximately 525,000 individuals and generating $8.9 billion in revenue. This rapid growth was further supported by government initiatives, including the establishment of the Philippine Economic Zone Authority (PEZA), which offered tax incentives and streamlined processes to attract foreign investors. The BPO sector's expansion significantly contributed to the country's economic development during this period.",
               images: [
-              require("@/assets/gallery 1/bgm1.jpg"),
+              require("@/assets/gallery 1/bpo.jpg"),
               ],
             },
             {
@@ -147,7 +142,7 @@ export default {
               image: require("@/assets/section 1/cover.png"),
               description: "Between 2000 and 2010, the Philippines faced significant extremist violence, primarily from groups like Abu Sayyaf and the New People's Army (NPA). In 2000, Abu Sayyaf conducted high-profile kidnappings, including the abduction of 21 individuals from Malaysia's Sipadan Island, leading to a Philippine court sentencing 17 militants to life imprisonment in 2024. In 2001, the group seized hostages from the Dos Palmas resort in Palawan, resulting in the deaths of American missionary Martin Burnham and Filipino nurse Ediborah Yap during a rescue attempt in 2002. The NPA, designated a Foreign Terrorist Organization by the U.S. in 2002, continued its insurgency, with activities peaking in 2007, making it the largest group behind terrorist attacks in the country. These events underscored the persistent threat of extremist violence in the Philippines during the decade.",
               images: [
-              require("@/assets/gallery 1/pal1.jpg"),
+              require("@/assets/gallery 1/extrem.webp"),
               ],
             },
             {
@@ -156,7 +151,7 @@ export default {
               image: require("@/assets/section 1/cover.png"),
               description: "In March 2010, the Philippines enacted Republic Act No. 10066, known as the National Cultural Heritage Act of 2009.  This legislation established the Philippine Registry of Cultural Property (PRECUP) to catalog and protect the nation's cultural assets. It also mandated the preservation of historic structures over 50 years old and strengthened the National Commission for Culture and the Arts (NCCA) along with its affiliated agencies. The Act was a response to incidents like the 2000 demolition of the Manila Jai Alai Building, aiming to prevent similar losses of cultural heritage.",
               images: [
-              require("@/assets/gallery 1/pal1.jpg"),
+              require("@/assets/gallery 1/heritage.webp"),
               ],
             },
             {
