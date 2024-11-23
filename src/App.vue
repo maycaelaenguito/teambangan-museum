@@ -176,54 +176,48 @@ export default {
           subsections: [
           {
               title: "Social",
-              subtitle: "Tropical Storm Ondoy 2009",
+              subtitle: "Twitter becomes X after Elon Musk acquires it for $44 billion",
               image: require("@/assets/section 1/1.png"),
               description:
-                "The PhilSports Stadium Stampede (also referred to as the ULTRA stampede or the Wowowee stampede) was a crowd crush that occurred at the PhilSports Stadium (also known as the ULTRA) in Pasig, Metro Manila in the Philippines on February 4, 2006. It killed 73 people and injured about 400. About 30,000 people had gathered outside the stadium waiting to participate in the first anniversary episode of the former television variety show Wowowee.",
+                "In October 2022, Elon Musk acquired Twitter for $44 billion, initiating significant transformations within the platform. In July 2023, Musk rebranded Twitter as 'X' replacing its iconic bird logo with a stylized 'X' and redirecting the domain to x.com. This rebranding was part of Musk's vision to develop X into an 'everything app' akin to China's WeChat, integrating various services beyond social networking. The transition involved merging Twitter, Inc. into X Corp., effectively dissolving the original company structure. These changes have sparked discussions about the platform's future direction and its role in the social media landscape.",
               images: [
               require("@/assets/gallery 1/1_16a082288a7.1665217_806339932_16a082288a7_large.jpg"),
-              require("@/assets/gallery 1/wow1.jpg"),
-              require("@/assets/gallery 1/tumblr_lg1uo4cmWY1qzeq3qo1_540.jpg"),
               ],
             },
             {
               title: "Economic",
+              subtitle: "Philippines becomes worlds largest rice importer",
               image: require("@/assets/section 1/3.png"),
-              description: "Bagyong Milenyo, or Typhoon Xangsane, was a devastating tropical cyclone that struck the Philippines in September 2006. It caused widespread destruction in Luzon, resulting in severe flooding, significant infrastructure damage, and loss of life, highlighting disaster preparedness challenges. Bagyong Milenyo (Typhoon Xangsane) struck the Philippines from September 25-29, 2006, causing extensive damage and 213 fatalities. It affected over 4 million people, particularly in Metro Manila, with losses totaling P6.6 billion. The typhoon highlighted safety issues with billboards, leading to their removal after fatalities caused by falling structures",
+              description: "In 2023, the Philippines became the world's largest rice importer, surpassing China with 3.8 million metric tons (MMT) of imports, projected to reach 4.1 MMT in 2024. (philstar.com) Despite being the seventh-largest rice producer globally, domestic production struggles to meet rising demand due to population growth and consumption. (business.inquirer.net) Vietnam remains the top supplier, emphasizing the Philippines' dependence on imported rice to sustain its food security.",
               images: [
               require("@/assets/gallery 1/bgm1.jpg"),
-              require("@/assets/gallery 1/bgm2.jpg"),
-              require("@/assets/gallery 1/bgm3.jpg"),
               ],
             },
             {
               title: "Political",
+              subtitle: "Philippines 'war on drugs' killings",
               image: require("@/assets/section 1/2.png"),
-              description: "On May 25, 2000, Philippine Airlines Flight 812 was hijacked before landing in Manila. Armed with a gun and a grenade, the hijacker demanded valuables and attempted to escape via a homemade parachute. He died three days later when the parachute failed to deploy. Reginald Chua hijacked Philippine Airlines Flight 812, citing family abandonment as his motivation. Armed with a pistol and grenade, he demanded money before attempting to escape via parachute. His behavior during the incident raised concerns about his mental health, and his body was later found in Quezon.",
+              description: "Between 2016 and 2022, the Philippines' 'war on drugs,'' initiated by President Rodrigo Duterte, resulted in over 6,000 reported deaths during police anti-drug operations, with human rights groups estimating the toll to be significantly higher. This campaign faced global criticism for alleged extrajudicial killings and lack of due process, sparking investigations by the International Criminal Court (ICC). Despite its controversies, the government defended the campaign as necessary for combating crime and illegal drugs, claiming it significantly reduced drug-related activities in the country.",
               images: [
               require("@/assets/gallery 1/pal1.jpg"),
-              require("@/assets/gallery 1/pal2.jpg"),
-              require("@/assets/gallery 1/pal3.jpg"),
               ],
             },
             {
               title: "Cultural",
+              subtitle: "Celebration of Filipino Youtube Fanfest (YTFF)",
               image: require("@/assets/section 1/2.png"),
-              description: "On May 25, 2000, Philippine Airlines Flight 812 was hijacked before landing in Manila. Armed with a gun and a grenade, the hijacker demanded valuables and attempted to escape via a homemade parachute. He died three days later when the parachute failed to deploy. Reginald Chua hijacked Philippine Airlines Flight 812, citing family abandonment as his motivation. Armed with a pistol and grenade, he demanded money before attempting to escape via parachute. His behavior during the incident raised concerns about his mental health, and his body was later found in Quezon.",
+              description: "The YouTube FanFest (YTFF) in the Philippines has become a significant celebration of the country's dynamic content creators. First held in Manila in 2015, the event brought together local and international YouTube stars for performances and fan interactions. It grew annually, featuring creators like Ranz Kyle, Niana Guerrero, and Mikey Bustos. In 2021, the event adapted to a virtual format due to the pandemic, showcasing Filipino talents such as SB19 and The Juans, underscoring the continued vibrancy of the Filipino YouTube community.",
               images: [
               require("@/assets/gallery 1/pal1.jpg"),
-              require("@/assets/gallery 1/pal2.jpg"),
-              require("@/assets/gallery 1/pal3.jpg"),
               ],
             },
             {
-              title: "Environmental ",
+              title: "Environmental",
+              subtitle: "Tropical Storm Kristine 2024",
               image: require("@/assets/section 1/2.png"),
-              description: "On May 25, 2000, Philippine Airlines Flight 812 was hijacked before landing in Manila. Armed with a gun and a grenade, the hijacker demanded valuables and attempted to escape via a homemade parachute. He died three days later when the parachute failed to deploy. Reginald Chua hijacked Philippine Airlines Flight 812, citing family abandonment as his motivation. Armed with a pistol and grenade, he demanded money before attempting to escape via parachute. His behavior during the incident raised concerns about his mental health, and his body was later found in Quezon.",
+              description: "In October 2024, Severe Tropical Storm Kristine (Trami) struck Luzon, Philippines, causing widespread flooding, landslides, and affecting over 6 million people. The storm claimed at least 116 lives, left many missing, and resulted in ₱3.76 billion in agricultural damages. States of calamity were declared in hard-hit areas, highlighting the ongoing need for stronger disaster preparedness in the country.",
               images: [
               require("@/assets/gallery 1/pal1.jpg"),
-              require("@/assets/gallery 1/pal2.jpg"),
-              require("@/assets/gallery 1/pal3.jpg"),
               ],
             },
           ],
@@ -234,53 +228,48 @@ export default {
           subsections: [
           {
               title: "Social",
+              subtitle: "A centralized hub for social media, moderated by AI, access to these platforms improve.",
               image: require("@/assets/section 1/1.png"),
               description:
-                "The PhilSports Stadium Stampede (also referred to as the ULTRA stampede or the Wowowee stampede) was a crowd crush that occurred at the PhilSports Stadium (also known as the ULTRA) in Pasig, Metro Manila in the Philippines on February 4, 2006. It killed 73 people and injured about 400. About 30,000 people had gathered outside the stadium waiting to participate in the first anniversary episode of the former television variety show Wowowee.",
+                "In the future, a centralized social media hub emerges, integrating major platforms for seamless access. AI moderation ensures safer, regulated spaces by detecting harmful content in real time. Improved connectivity broadens access, making social media more inclusive and efficient for users worldwide.",
               images: [
               require("@/assets/gallery 1/1_16a082288a7.1665217_806339932_16a082288a7_large.jpg"),
-              require("@/assets/gallery 1/wow1.jpg"),
-              require("@/assets/gallery 1/tumblr_lg1uo4cmWY1qzeq3qo1_540.jpg"),
               ],
             },
             {
               title: "Economic",
+              subtitle: "The need for importation of goods would be reduced after improvement of manufacturing capability of the Philippines.",
               image: require("@/assets/section 1/3.png"),
-              description: "Bagyong Milenyo, or Typhoon Xangsane, was a devastating tropical cyclone that struck the Philippines in September 2006. It caused widespread destruction in Luzon, resulting in severe flooding, significant infrastructure damage, and loss of life, highlighting disaster preparedness challenges. Bagyong Milenyo (Typhoon Xangsane) struck the Philippines from September 25-29, 2006, causing extensive damage and 213 fatalities. It affected over 4 million people, particularly in Metro Manila, with losses totaling P6.6 billion. The typhoon highlighted safety issues with billboards, leading to their removal after fatalities caused by falling structures",
+              description: "In the future, the Philippines' improved manufacturing capabilities reduce the need for importing goods. Enhanced local production supports domestic demand, strengthens the economy, and fosters self-sufficiency, decreasing reliance on foreign markets.",
               images: [
               require("@/assets/gallery 1/bgm1.jpg"),
-              require("@/assets/gallery 1/bgm2.jpg"),
-              require("@/assets/gallery 1/bgm3.jpg"),
               ],
             },
             {
               title: "Political",
+              subtitle: "Shifts in Philippine politics beyond 2030 focus on reform, digital governance, and inclusive leadership",
               image: require("@/assets/section 1/2.png"),
-              description: "On May 25, 2000, Philippine Airlines Flight 812 was hijacked before landing in Manila. Armed with a gun and a grenade, the hijacker demanded valuables and attempted to escape via a homemade parachute. He died three days later when the parachute failed to deploy. Reginald Chua hijacked Philippine Airlines Flight 812, citing family abandonment as his motivation. Armed with a pistol and grenade, he demanded money before attempting to escape via parachute. His behavior during the incident raised concerns about his mental health, and his body was later found in Quezon.",
+              description: "After 2030, Philippine politics is expected to focus on federalism, digital governance, climate policies, and evolving regional autonomy in Bangsamoro. Leadership shifts toward younger, reform-driven figures will reflect changing voter demographics and a push for transparency and inclusive governance.",
               images: [
               require("@/assets/gallery 1/pal1.jpg"),
-              require("@/assets/gallery 1/pal2.jpg"),
-              require("@/assets/gallery 1/pal3.jpg"),
               ],
             },
             {
               title: "Cultural",
+              subtitle: "Filipino Culture will be mostly be curated and presented through a digital medium",
               image: require("@/assets/section 1/2.png"),
-              description: "On May 25, 2000, Philippine Airlines Flight 812 was hijacked before landing in Manila. Armed with a gun and a grenade, the hijacker demanded valuables and attempted to escape via a homemade parachute. He died three days later when the parachute failed to deploy. Reginald Chua hijacked Philippine Airlines Flight 812, citing family abandonment as his motivation. Armed with a pistol and grenade, he demanded money before attempting to escape via parachute. His behavior during the incident raised concerns about his mental health, and his body was later found in Quezon.",
+              description: "Filipino culture will be showcased and celebrated through a dynamic digital medium, blending tradition with innovation. This initiative will curate and present key aspects of Filipino heritage—arts, music, language, history, and values—through engaging, interactive, and visually compelling formats. By leveraging technology, it aims to preserve and promote the richness of Filipino identity to both local and global audiences, ensuring accessibility and inclusivity for future generations.",
               images: [
               require("@/assets/gallery 1/pal1.jpg"),
-              require("@/assets/gallery 1/pal2.jpg"),
-              require("@/assets/gallery 1/pal3.jpg"),
               ],
             },
             {
               title: "Environmental ",
+              subtitle: "Multiple typhoons hit the Philippines in succession, floods will be more severe. Adaptability of Filipinos on these calamities remains the reelevant subject.",
               image: require("@/assets/section 1/2.png"),
-              description: "On May 25, 2000, Philippine Airlines Flight 812 was hijacked before landing in Manila. Armed with a gun and a grenade, the hijacker demanded valuables and attempted to escape via a homemade parachute. He died three days later when the parachute failed to deploy. Reginald Chua hijacked Philippine Airlines Flight 812, citing family abandonment as his motivation. Armed with a pistol and grenade, he demanded money before attempting to escape via parachute. His behavior during the incident raised concerns about his mental health, and his body was later found in Quezon.",
+              description: "With multiple typhoons hitting the Philippines in succession and escalating flood severity, the resilience and adaptability of Filipinos in the face of these recurring calamities remain a critical focus. This highlights the urgent need for disaster preparedness, sustainable infrastructure, and community-driven solutions, while underscoring the enduring spirit and resourcefulness of the Filipino people.",
               images: [
               require("@/assets/gallery 1/pal1.jpg"),
-              require("@/assets/gallery 1/pal2.jpg"),
-              require("@/assets/gallery 1/pal3.jpg"),
               ],
             },
           ],
