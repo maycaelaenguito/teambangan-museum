@@ -314,16 +314,16 @@ export default {
               title: "Fiestas celebrated Filipino traditions through vibrant community events",
               subtitle: "Fiestas celebrated Filipino traditions through vibrant community events",
               image: require("@/assets/section 1/cover.png"),
-              description: "On May 25, 2000, Philippine Airlines Flight 812 was hijacked before landing in Manila. Armed with a gun and a grenade, the hijacker demanded valuables and attempted to escape via a homemade parachute. He died three days later when the parachute failed to deploy. Reginald Chua hijacked Philippine Airlines Flight 812, citing family abandonment as his motivation. Armed with a pistol and grenade, he demanded money before attempting to escape via parachute. His behavior during the incident raised concerns about his mental health, and his body was later found in Quezon.",
+              description: "From 2000 to 2010, Filipino fiestas were vibrant celebrations that highlighted traditional culture and created profound sensory and emotional experiences. These events, deeply rooted in local traditions, combined colorful parades, intricate costumes, festive music, and dynamic performances that captivated participants and spectators. The feasts and communal gatherings brought people together to share food, laughter, and stories, strengthening bonds and fostering a deep sense of community. Beyond the visual and auditory spectacle, these festivals evoked feelings of joy, pride, nostalgia, and unity, serving as a living expression of Filipino heritage and identity.",
               images: [
               require("@/assets/gallery 1/pal1.jpg"),
               ],
             },
             {
               title: "EDSA II",
-              subtitle: "EDSA II",
+              subtitle: "EDSA 2 inspired unity and emotional solidarity through peaceful protests.",
               image: require("@/assets/section 1/cover.png"),
-              description: "On May 25, 2000, Philippine Airlines Flight 812 was hijacked before landing in Manila. Armed with a gun and a grenade, the hijacker demanded valuables and attempted to escape via a homemade parachute. He died three days later when the parachute failed to deploy. Reginald Chua hijacked Philippine Airlines Flight 812, citing family abandonment as his motivation. Armed with a pistol and grenade, he demanded money before attempting to escape via parachute. His behavior during the incident raised concerns about his mental health, and his body was later found in Quezon.",
+              description: "In 2001, EDSA 2 became a pivotal moment in Philippine history, where peaceful protests against government corruption stirred powerful emotions and a collective sense of purpose among Filipinos. Thousands gathered at the Epifanio de los Santos Avenue (EDSA), expressing outrage, hope, and solidarity through chants, songs, and shared experiences. This nonviolent movement not only demonstrated the power of unity and civic action but also left a lasting impact on the nation's collective memory, evoking pride and determination in the fight for justice and democracy.",
               images: [
               require("@/assets/gallery 1/pal1.jpg"),
               ],
@@ -335,47 +335,47 @@ export default {
           title: "Present Time",
           subsections: [
           {
-              title: "The Wowowee Stampede",
-              subtitle: "The Wowowee Stampede",
+              title: "Impact of social media on well-being and mental health to present generations.",
+              subtitle: "Impact of social media on emotional well-being and mental health of these generations.",
               image: require("@/assets/section 1/cover.png"),
               description:
-                "The PhilSports Stadium Stampede (also referred to as the ULTRA stampede or the Wowowee stampede) was a crowd crush that occurred at the PhilSports Stadium (also known as the ULTRA) in Pasig, Metro Manila in the Philippines on February 4, 2006. It killed 73 people and injured about 400. About 30,000 people had gathered outside the stadium waiting to participate in the first anniversary episode of the former television variety show Wowowee.",
+                "Social media has become a powerful force in shaping emotional well-being and mental health in today’s world. The constant exposure to curated content, instant feedback, and online interactions influences how people perceive themselves and others, often triggering emotions such as joy, anxiety, or inadequacy. This topic explores how social media affects the way individuals process their feelings, respond to sensory stimuli, and navigate the challenges of emotional health in an always-connected digital environment.",
               images: [
               require("@/assets/gallery 1/1_16a082288a7.1665217_806339932_16a082288a7_large.jpg"),
               ],
             },
             {
-              title: "Bagyong Milenyo",
-              subtitle: "Bagyong Milenyo",
+              title: "Immersive experiences in virtual reality entertainment.",
+              subtitle: "Immersive experiences in virtual reality entertainment",
               image: require("@/assets/section 1/cover.png"),
-              description: "Bagyong Milenyo, or Typhoon Xangsane, was a devastating tropical cyclone that struck the Philippines in   September 2006. It caused widespread destruction in Luzon, resulting in severe flooding, significant infrastructure damage, and loss of life, highlighting disaster preparedness challenges. Bagyong Milenyo (Typhoon Xangsane) struck the Philippines from September 25-29, 2006, causing extensive damage and 213 fatalities. It affected over 4 million people, particularly in Metro Manila, with losses totaling P6.6 billion. The typhoon highlighted safety issues with billboards, leading to their removal after fatalities caused by falling structures",
+              description: "Virtual reality (VR) technology in popular culture is redefining how people engage with stories and experiences, offering deeply immersive environments that evoke intense emotional reactions. This topic examines how VR entertainment affects senses and feelings, exploring its ability to elicit empathy, fear, excitement, or awe through realistic simulations and interactive storytelling, shaping emotional responses in entirely new ways.",
               images: [
               require("@/assets/gallery 1/bgm1.jpg"),
               ],
             },
             {
-              title: "Philippine Airlines Flight 812",
-              subtitle: "Philippine Airlines Flight 812",
+              title: "Influence of OPM (Original Pilipino Music) on national pride and emotional connection",
+              subtitle: "Influence of OPM (Original Pilipino Music) on national pride and emotional connection",
               image: require("@/assets/section 1/cover.png"),
-              description: "On May 25, 2000, Philippine Airlines Flight 812 was hijacked before landing in Manila. Armed with a gun and a grenade, the hijacker demanded valuables and attempted to escape via a homemade parachute. He died three days later when the parachute failed to deploy. Reginald Chua hijacked Philippine Airlines Flight 812, citing family abandonment as his motivation. Armed with a pistol and grenade, he demanded money before attempting to escape via parachute. His behavior during the incident raised concerns about his mental health, and his body was later found in Quezon.",
+              description: "Original Pilipino Music (OPM) has a powerful emotional impact on Filipinos, fostering feelings of nostalgia, unity, and national pride. This topic examines how popular OPM songs and artists resonate with audiences by reflecting personal and collective experiences, creating deep emotional bonds that celebrate Filipino identity and culture in the present time.",
               images: [
               require("@/assets/gallery 1/pal1.jpg"),
               ],
             },
             {
-              title: "Fiestas celebrated Filipino traditions through vibrant community events",
-              subtitle: "Fiestas celebrated Filipino traditions through vibrant community events",
+              title: "High inflation in the Philippines",
+              subtitle: "High inflation in the Philippines",
               image: require("@/assets/section 1/cover.png"),
-              description: "On May 25, 2000, Philippine Airlines Flight 812 was hijacked before landing in Manila. Armed with a gun and a grenade, the hijacker demanded valuables and attempted to escape via a homemade parachute. He died three days later when the parachute failed to deploy. Reginald Chua hijacked Philippine Airlines Flight 812, citing family abandonment as his motivation. Armed with a pistol and grenade, he demanded money before attempting to escape via parachute. His behavior during the incident raised concerns about his mental health, and his body was later found in Quezon.",
+              description: "he rising cost of goods and services in the Philippines impacts how Filipinos experience their daily lives, from the sensory adjustments of cutting back on food choices to the emotional stress of financial strain. This topic examines how inflation shapes feelings of anxiety, resilience, and adaptation in the present time.",
               images: [
               require("@/assets/gallery 1/pal1.jpg"),
               ],
             },
             {
-              title: "EDSA II",
-              subtitle: "EDSA II",
+              title: "Decades long recurring traffic problems",
+              subtitle: "Decades long recurring traffic problems",
               image: require("@/assets/section 1/cover.png"),
-              description: "On May 25, 2000, Philippine Airlines Flight 812 was hijacked before landing in Manila. Armed with a gun and a grenade, the hijacker demanded valuables and attempted to escape via a homemade parachute. He died three days later when the parachute failed to deploy. Reginald Chua hijacked Philippine Airlines Flight 812, citing family abandonment as his motivation. Armed with a pistol and grenade, he demanded money before attempting to escape via parachute. His behavior during the incident raised concerns about his mental health, and his body was later found in Quezon.",
+              description: "The worsening traffic congestion in urban areas like Metro Manila directly impacts Filipinos' daily lives by inducing sensory fatigue from noise, pollution, and long commutes, while also triggering emotions such as frustration, stress, and impatience. This topic examines how these sensory and emotional challenges affect well-being in the present time.",
               images: [
               require("@/assets/gallery 1/pal1.jpg"),
               ],
@@ -386,47 +386,47 @@ export default {
           title: "2030",
           subsections: [
           {
-              title: "The Wowowee Stampede",
-              subtitle: "The Wowowee Stampede",
+              title: "Climate change",
+              subtitle: "Climate change",
               image: require("@/assets/section 1/cover.png"),
               description:
-                "The PhilSports Stadium Stampede (also referred to as the ULTRA stampede or the Wowowee stampede) was a crowd crush that occurred at the PhilSports Stadium (also known as the ULTRA) in Pasig, Metro Manila in the Philippines on February 4, 2006. It killed 73 people and injured about 400. About 30,000 people had gathered outside the stadium waiting to participate in the first anniversary episode of the former television variety show Wowowee.",
+                "The escalating effects of climate change, such as rising temperatures, extreme weather events, and environmental degradation, are likely to alter sensory and emotional experiences for future generations. This topic explores how these changes could impact daily life, from coping with physical discomfort to navigating emotional resilience in a transforming environment.",
               images: [
               require("@/assets/gallery 1/1_16a082288a7.1665217_806339932_16a082288a7_large.jpg"),
               ],
             },
             {
-              title: "Bagyong Milenyo",
-              subtitle: "Bagyong Milenyo",
+              title: "Indigenous practices",
+              subtitle: "Indigenous practices",
               image: require("@/assets/section 1/cover.png"),
-              description: "Bagyong Milenyo, or Typhoon Xangsane, was a devastating tropical cyclone that struck the Philippines in   September 2006. It caused widespread destruction in Luzon, resulting in severe flooding, significant infrastructure damage, and loss of life, highlighting disaster preparedness challenges. Bagyong Milenyo (Typhoon Xangsane) struck the Philippines from September 25-29, 2006, causing extensive damage and 213 fatalities. It affected over 4 million people, particularly in Metro Manila, with losses totaling P6.6 billion. The typhoon highlighted safety issues with billboards, leading to their removal after fatalities caused by falling structures",
+              description: "The preservation and adaptation of indigenous traditions in the Philippines, such as weaving, rituals, and storytelling, could impact how future generations experience their cultural identity. This topic explores how evolving practices might engage senses and feelings, blending heritage with modern influences while maintaining their cultural significance.",
               images: [
               require("@/assets/gallery 1/bgm1.jpg"),
               ],
             },
             {
-              title: "Philippine Airlines Flight 812",
-              subtitle: "Philippine Airlines Flight 812",
+              title: "Philippines' Basketball",
+              subtitle: "Philippines' Basketball",
               image: require("@/assets/section 1/cover.png"),
-              description: "On May 25, 2000, Philippine Airlines Flight 812 was hijacked before landing in Manila. Armed with a gun and a grenade, the hijacker demanded valuables and attempted to escape via a homemade parachute. He died three days later when the parachute failed to deploy. Reginald Chua hijacked Philippine Airlines Flight 812, citing family abandonment as his motivation. Armed with a pistol and grenade, he demanded money before attempting to escape via parachute. His behavior during the incident raised concerns about his mental health, and his body was later found in Quezon.",
+              description: "Basketball, a deeply rooted sport in Filipino culture, is poised to evolve with the growth of international leagues, advanced training programs, and rising homegrown talents. This topic examines how these developments might impact sensory experiences, such as the excitement of live games, and evoke feelings of national pride and unity in the future.",
               images: [
               require("@/assets/gallery 1/pal1.jpg"),
               ],
             },
             {
-              title: "Fiestas celebrated Filipino traditions through vibrant community events",
-              subtitle: "Fiestas celebrated Filipino traditions through vibrant community events",
+              title: "Online gambling",
+              subtitle: "Online gambling",
               image: require("@/assets/section 1/cover.png"),
-              description: "On May 25, 2000, Philippine Airlines Flight 812 was hijacked before landing in Manila. Armed with a gun and a grenade, the hijacker demanded valuables and attempted to escape via a homemade parachute. He died three days later when the parachute failed to deploy. Reginald Chua hijacked Philippine Airlines Flight 812, citing family abandonment as his motivation. Armed with a pistol and grenade, he demanded money before attempting to escape via parachute. His behavior during the incident raised concerns about his mental health, and his body was later found in Quezon.",
+              description: "The rise of online gambling platforms in the Philippines, driven by advancements in technology, is expected to create more immersive and engaging experiences for users. This topic examines how virtual casinos and interactive betting may affect sensory stimulation, such as vivid graphics and real-time gameplay, and evoke emotions like excitement, stress, or addiction in the coming years.",
               images: [
               require("@/assets/gallery 1/pal1.jpg"),
               ],
             },
             {
-              title: "EDSA II",
+              title: "Acceptance of LGBTQ+ norms",
               subtitle: "EDSA II",
               image: require("@/assets/section 1/cover.png"),
-              description: "On May 25, 2000, Philippine Airlines Flight 812 was hijacked before landing in Manila. Armed with a gun and a grenade, the hijacker demanded valuables and attempted to escape via a homemade parachute. He died three days later when the parachute failed to deploy. Reginald Chua hijacked Philippine Airlines Flight 812, citing family abandonment as his motivation. Armed with a pistol and grenade, he demanded money before attempting to escape via parachute. His behavior during the incident raised concerns about his mental health, and his body was later found in Quezon.",
+              description: "Tncreasing visibility and acceptance of LGBTQ+ individuals in the Philippines are reshaping societal interactions and personal relationships. This topic examines how this shift affects emotional experiences, such as empowerment or stigma, and sensory expressions in events like Pride marches, media representation, and inclusive spaces.",
               images: [
               require("@/assets/gallery 1/pal1.jpg"),
               ],
@@ -445,11 +445,9 @@ export default {
               title: "Miss International 2005 Victory",
               image: require("@/assets/section 1/cover.png"),
               description:
-              "In 2005, Precious Lara Quigaman’s Miss International win celebrated diverse Filipino beauty and sparked national pride. This victory shifted the focus from traditional beauty standards to a more inclusive view, highlighting intelligence and cultural identity, ultimately reshaping self-image in Philippine popular culture during the decade. Precious Lara’s Miss International win in 2005 influenced Philippine popular culture by promoting a broader definition of beauty. It encouraged self-acceptance and highlighted the importance of intelligence and cultural identity, leading to a more inclusive perspective on body image and self-worth during the 2000s.",
+              "In 2005, Precious Lara Quigaman's Miss International win celebrated diverse Filipino beauty and sparked national pride. This victory shifted the focus from traditional beauty standards to a more inclusive view, highlighting intelligence and cultural identity, ultimately reshaping self-image in Philippine popular culture during the decade. Precious Lara's Miss International win in 2005 influenced Philippine popular culture by promoting a broader definition of beauty. It encouraged self-acceptance and highlighted the importance of intelligence and cultural identity, leading to a more inclusive perspective on body image and self-worth during the 2000s.",
               images: [
                 require("@/assets/gallery 2/2005-miss-international-winner-philippines-precious-lara-550nw-7828522b.jpg"),
-                require("@/assets/gallery 2/845806bf9c531275af1bae331f79383a.jpg"),
-                require("@/assets/gallery 2/1659413732_966318566_16_ent.png"),
               ],
             },
             {
@@ -458,8 +456,6 @@ export default {
               description: "Marian Rivera's rise to fame through her role in the hit show Marimar led to her crowning as FHM Philippines' Sexiest Woman in 2008. This victory not only celebrated her beauty but also brought the FHM awards into Philippine households, elevating the magazine's profile and influencing popular culture. Rivera's win showcased a blend of talent and attractiveness, encouraging greater acceptance of diverse beauty standards in the process. Marian Rivera's FHM win in 2008 influenced Philippine popular culture by reinforcing beauty ideals that emphasized physical appearance. While she inspired body positivity, it also risked promoting unrealistic standards among young fans, potentially impacting their self-image and leading to pressure to conform to these ideals.",
               images: [
                 require("@/assets/gallery 2/mar1.jpg"),
-                require("@/assets/gallery 2/mar2.jpg"),
-                require("@/assets/gallery 2/mar3.webp"),
               ],
             },
             
@@ -469,28 +465,22 @@ export default {
               description: "Emo culture in the 2000s reshaped Philippine popular culture by promoting individuality and emotional expression. It influenced body image through distinctive fashion choices and encouraged discussions about mental health, allowing youth to embrace vulnerability and authenticity, ultimately transforming self-image and perceptions of beauty during the decade. Emo culture in the 2000s empowered Filipino youth by promoting individuality and personal expression. It encouraged them to embrace their unique identities and emotions, challenging societal norms and fostering a sense of belonging within a community that valued authenticity and diverse self-representation.",
               images: [
                 require("@/assets/gallery 2/emo1.jpg"),
-                require("@/assets/gallery 2/emo2.jpg"),
-                require("@/assets/gallery 2/emo3.jpg"),
               ],
             },
             {
-              title: "Marian Rivera crowned as FHM Philippines' Sexiest Woman for 2008",
+              title: "The start of fandoms and cosplays",
               image: require("@/assets/section 1/cover.png"),
-              description: "Marian Rivera's rise to fame through her role in the hit show Marimar led to her crowning as FHM Philippines' Sexiest Woman in 2008. This victory not only celebrated her beauty but also brought the FHM awards into Philippine households, elevating the magazine's profile and influencing popular culture. Rivera's win showcased a blend of talent and attractiveness, encouraging greater acceptance of diverse beauty standards in the process. Marian Rivera's FHM win in 2008 influenced Philippine popular culture by reinforcing beauty ideals that emphasized physical appearance. While she inspired body positivity, it also risked promoting unrealistic standards among young fans, potentially impacting their self-image and leading to pressure to conform to these ideals.",
+              description: "The start of fandoms and cosplay in the Philippines from 2000 to 2010 brought significant changes to how Filipinos viewed body and self-image. As anime, gaming, and pop culture grew in popularity, cosplay became a platform for fans to embody their favorite characters, often highlighting the tension between creativity and the pressure to match specific body types. Many cosplayers faced challenges in meeting beauty standards tied to Western or East Asian influences, which shaped perceptions of self-worth and acceptance. Despite these pressures, the cosplay community became a space for Filipinos to express themselves, celebrate diversity, and redefine self-image through shared passion and creativity.",
               images: [
                 require("@/assets/gallery 2/mar1.jpg"),
-                require("@/assets/gallery 2/mar2.jpg"),
-                require("@/assets/gallery 2/mar3.webp"),
               ],
             },
             {
-              title: "Emo Culture",
+              title: "Korean Pop Culture impact on Filipinos",
               image: require("@/assets/section 1/cover.png"),
-              description: "Emo culture in the 2000s reshaped Philippine popular culture by promoting individuality and emotional expression. It influenced body image through distinctive fashion choices and encouraged discussions about mental health, allowing youth to embrace vulnerability and authenticity, ultimately transforming self-image and perceptions of beauty during the decade. Emo culture in the 2000s empowered Filipino youth by promoting individuality and personal expression. It encouraged them to embrace their unique identities and emotions, challenging societal norms and fostering a sense of belonging within a community that valued authenticity and diverse self-representation.",
+              description: "Korean dramas and K-pop took the Philippines by storm during the 2000s, introducing a new set of beauty ideals rooted in East Asian aesthetics. Fair, glass-like skin, slim and petite physiques, and soft, delicate features became highly admired among Filipinos. This influence spurred a surge in demand for Korean beauty products, including whitening creams and skincare routines that promised youthful, glowing skin. Many Filipinos began styling their makeup and fashion to emulate K-pop idols, further cementing these beauty ideals. However, the lack of representation of diverse body types in Korean media created unrealistic expectations, leading to dissatisfaction with one’s natural appearance.",
               images: [
                 require("@/assets/gallery 2/emo1.jpg"),
-                require("@/assets/gallery 2/emo2.jpg"),
-                require("@/assets/gallery 2/emo3.jpg"),
               ],
             },
           ],
@@ -499,55 +489,45 @@ export default {
           title: "Present Time",
           subsections: [
           {
-              title: "Miss International 2005 Victory",
+              title: "Rise of TikTok and Instagram",
               image: require("@/assets/section 1/cover.png"),
               description:
-              "In 2005, Precious Lara Quigaman’s Miss International win celebrated diverse Filipino beauty and sparked national pride. This victory shifted the focus from traditional beauty standards to a more inclusive view, highlighting intelligence and cultural identity, ultimately reshaping self-image in Philippine popular culture during the decade. Precious Lara’s Miss International win in 2005 influenced Philippine popular culture by promoting a broader definition of beauty. It encouraged self-acceptance and highlighted the importance of intelligence and cultural identity, leading to a more inclusive perspective on body image and self-worth during the 2000s.",
+              "TikTok and Instagram heavily influence self-image through trends like “glow-ups” and body challenges. Filters and editing tools allow users to create idealized versions of themselves, which often set unrealistic beauty standards. Viral influencers, both local and international, showcase fitness routines, skincare, and cosmetic surgeries, promoting specific body types as aspirational. This constant exposure impacts how Filipinos perceive their own bodies, especially among Gen Z and Millennials. The platforms also foster body positivity movements, creating spaces for inclusivity and diverse representations of beauty.",
               images: [
                 require("@/assets/gallery 2/2005-miss-international-winner-philippines-precious-lara-550nw-7828522b.jpg"),
-                require("@/assets/gallery 2/845806bf9c531275af1bae331f79383a.jpg"),
-                require("@/assets/gallery 2/1659413732_966318566_16_ent.png"),
               ],
             },
             {
-              title: "Marian Rivera crowned as FHM Philippines' Sexiest Woman for 2008",
+              title: "Body Positivity and Inclusivity in Filipino Media",
               image: require("@/assets/section 1/cover.png"),
-              description: "Marian Rivera's rise to fame through her role in the hit show Marimar led to her crowning as FHM Philippines' Sexiest Woman in 2008. This victory not only celebrated her beauty but also brought the FHM awards into Philippine households, elevating the magazine's profile and influencing popular culture. Rivera's win showcased a blend of talent and attractiveness, encouraging greater acceptance of diverse beauty standards in the process. Marian Rivera's FHM win in 2008 influenced Philippine popular culture by reinforcing beauty ideals that emphasized physical appearance. While she inspired body positivity, it also risked promoting unrealistic standards among young fans, potentially impacting their self-image and leading to pressure to conform to these ideals.",
+              description: "Filipino advertisements and TV shows are beginning to highlight diverse body types, breaking away from traditional beauty standards. Brands like Dove and Bench have introduced campaigns promoting self-love, acceptance, and body positivity. This shift is empowering Filipinos to embrace their natural shapes and skin tones. However, societal pressure for lighter skin and thinner bodies persists, showing that progress remains a work in progress. The movement has sparked conversations around inclusivity and representation in mainstream media.",
               images: [
                 require("@/assets/gallery 2/mar1.jpg"),
-                require("@/assets/gallery 2/mar2.jpg"),
-                require("@/assets/gallery 2/mar3.webp"),
               ],
             },
             
             {
-              title: "Emo Culture",
+              title: "Skin Whitening Practices",
               image: require("@/assets/section 1/cover.png"),
-              description: "Emo culture in the 2000s reshaped Philippine popular culture by promoting individuality and emotional expression. It influenced body image through distinctive fashion choices and encouraged discussions about mental health, allowing youth to embrace vulnerability and authenticity, ultimately transforming self-image and perceptions of beauty during the decade. Emo culture in the 2000s empowered Filipino youth by promoting individuality and personal expression. It encouraged them to embrace their unique identities and emotions, challenging societal norms and fostering a sense of belonging within a community that valued authenticity and diverse self-representation.",
+              description: "Despite increasing body positivity, skin-whitening products remain highly popular in the Philippines, reflecting ongoing societal preferences for lighter skin. Brands market these products as essential for confidence and beauty, reinforcing colonial beauty standards. The rise of online influencers has further normalized these practices, despite growing criticism from advocacy groups promoting skin acceptance. Filipinos are now caught between traditional ideals and modern calls for embracing natural beauty. The conversation around skin tone and identity continues to evolve, especially among the younger generation.",
               images: [
                 require("@/assets/gallery 2/emo1.jpg"),
-                require("@/assets/gallery 2/emo2.jpg"),
-                require("@/assets/gallery 2/emo3.jpg"),
               ],
             },
             {
-              title: "Marian Rivera crowned as FHM Philippines' Sexiest Woman for 2008",
+              title: "Cosmetic enhancements and the evolving beauty standards",
               image: require("@/assets/section 1/cover.png"),
-              description: "Marian Rivera's rise to fame through her role in the hit show Marimar led to her crowning as FHM Philippines' Sexiest Woman in 2008. This victory not only celebrated her beauty but also brought the FHM awards into Philippine households, elevating the magazine's profile and influencing popular culture. Rivera's win showcased a blend of talent and attractiveness, encouraging greater acceptance of diverse beauty standards in the process. Marian Rivera's FHM win in 2008 influenced Philippine popular culture by reinforcing beauty ideals that emphasized physical appearance. While she inspired body positivity, it also risked promoting unrealistic standards among young fans, potentially impacting their self-image and leading to pressure to conform to these ideals.",
+              description: "Cosmetic surgeries and non-invasive treatments, such as lip fillers, nose lifts, and body contouring, have become increasingly accessible and popular in the Philippines. Social media and celebrity endorsements normalize these enhancements, with many Filipinos viewing them as a way to boost self-confidence. Clinics now cater to a younger audience, including teens, influenced by K-beauty trends and Western aesthetics. This growing acceptance of cosmetic procedures reflects a shift in Filipino attitudes toward beauty and self-image. However, it raises questions about the pressure to conform to idealized standards.",
               images: [
                 require("@/assets/gallery 2/mar1.jpg"),
-                require("@/assets/gallery 2/mar2.jpg"),
-                require("@/assets/gallery 2/mar3.webp"),
               ],
             },
             {
-              title: "Emo Culture",
+              title: "K-Beauty and J-Beauty Trends",
               image: require("@/assets/section 1/cover.png"),
-              description: "Emo culture in the 2000s reshaped Philippine popular culture by promoting individuality and emotional expression. It influenced body image through distinctive fashion choices and encouraged discussions about mental health, allowing youth to embrace vulnerability and authenticity, ultimately transforming self-image and perceptions of beauty during the decade. Emo culture in the 2000s empowered Filipino youth by promoting individuality and personal expression. It encouraged them to embrace their unique identities and emotions, challenging societal norms and fostering a sense of belonging within a community that valued authenticity and diverse self-representation.",
+              description: "Korean and Japanese beauty trends continue to dominate the Filipino market, promoting glass skin, petite figures, and youthful appearances. Local influencers often share beauty routines and endorse products that align with these trends, further embedding them into Filipino culture. This influence pushes many Filipinos to prioritize skincare and adhere to slim body standards associated with these aesthetics. However, the popularity of these trends has also sparked discussions about the lack of representation of diverse body types and skin tones.",
               images: [
                 require("@/assets/gallery 2/emo1.jpg"),
-                require("@/assets/gallery 2/emo2.jpg"),
-                require("@/assets/gallery 2/emo3.jpg"),
               ],
             },
           ],
@@ -556,55 +536,45 @@ export default {
           title: "2030",
           subsections: [
           {
-              title: "Miss International 2005 Victory",
+              title: "Rise of virtual reality ",
               image: require("@/assets/section 1/cover.png"),
               description:
-              "In 2005, Precious Lara Quigaman’s Miss International win celebrated diverse Filipino beauty and sparked national pride. This victory shifted the focus from traditional beauty standards to a more inclusive view, highlighting intelligence and cultural identity, ultimately reshaping self-image in Philippine popular culture during the decade. Precious Lara’s Miss International win in 2005 influenced Philippine popular culture by promoting a broader definition of beauty. It encouraged self-acceptance and highlighted the importance of intelligence and cultural identity, leading to a more inclusive perspective on body image and self-worth during the 2000s.",
+              "With the rise of virtual reality and metaverse platforms, Filipinos may increasingly design digital avatars to represent themselves, potentially changing how they perceive their physical bodies. These platforms could either reduce body-image pressures by offering limitless customization or exacerbate insecurities by promoting unrealistic digital standards. How Filipinos navigate this duality will define the future of self-expression and body image.",
               images: [
                 require("@/assets/gallery 2/2005-miss-international-winner-philippines-precious-lara-550nw-7828522b.jpg"),
-                require("@/assets/gallery 2/845806bf9c531275af1bae331f79383a.jpg"),
-                require("@/assets/gallery 2/1659413732_966318566_16_ent.png"),
               ],
             },
             {
-              title: "Marian Rivera crowned as FHM Philippines' Sexiest Woman for 2008",
+              title: "Advancements in cosmetic technology",
               image: require("@/assets/section 1/cover.png"),
-              description: "Marian Rivera's rise to fame through her role in the hit show Marimar led to her crowning as FHM Philippines' Sexiest Woman in 2008. This victory not only celebrated her beauty but also brought the FHM awards into Philippine households, elevating the magazine's profile and influencing popular culture. Rivera's win showcased a blend of talent and attractiveness, encouraging greater acceptance of diverse beauty standards in the process. Marian Rivera's FHM win in 2008 influenced Philippine popular culture by reinforcing beauty ideals that emphasized physical appearance. While she inspired body positivity, it also risked promoting unrealistic standards among young fans, potentially impacting their self-image and leading to pressure to conform to these ideals.",
+              description: "The future of cosmetic enhancements, such as 3D-printed implants, gene-editing techniques, and non-invasive body modifications, could revolutionize beauty practices in the Philippines. These advancements might make it easier for Filipinos to achieve desired looks but could also lead to heightened pressures to undergo such procedures to fit societal standards. Ethical and cultural implications will play a major role in shaping attitudes.",
               images: [
                 require("@/assets/gallery 2/mar1.jpg"),
-                require("@/assets/gallery 2/mar2.jpg"),
-                require("@/assets/gallery 2/mar3.webp"),
               ],
             },
             
             {
-              title: "Emo Culture",
+              title: "Skin tone representation",
               image: require("@/assets/section 1/cover.png"),
-              description: "Emo culture in the 2000s reshaped Philippine popular culture by promoting individuality and emotional expression. It influenced body image through distinctive fashion choices and encouraged discussions about mental health, allowing youth to embrace vulnerability and authenticity, ultimately transforming self-image and perceptions of beauty during the decade. Emo culture in the 2000s empowered Filipino youth by promoting individuality and personal expression. It encouraged them to embrace their unique identities and emotions, challenging societal norms and fostering a sense of belonging within a community that valued authenticity and diverse self-representation.",
+              description: "As conversations about colorism evolve, future beauty trends in the Philippines may embrace darker skin tones, reflecting a growing appreciation for indigenous and regional features. Global beauty brands might adapt by creating products celebrating diversity, but traditional skin-whitening practices could persist, sparking ongoing cultural debates about identity and beauty.",
               images: [
                 require("@/assets/gallery 2/emo1.jpg"),
-                require("@/assets/gallery 2/emo2.jpg"),
-                require("@/assets/gallery 2/emo3.jpg"),
               ],
             },
             {
-              title: "Marian Rivera crowned as FHM Philippines' Sexiest Woman for 2008",
+              title: "Neurotechnology and its influence on body perception",
               image: require("@/assets/section 1/cover.png"),
-              description: "Marian Rivera's rise to fame through her role in the hit show Marimar led to her crowning as FHM Philippines' Sexiest Woman in 2008. This victory not only celebrated her beauty but also brought the FHM awards into Philippine households, elevating the magazine's profile and influencing popular culture. Rivera's win showcased a blend of talent and attractiveness, encouraging greater acceptance of diverse beauty standards in the process. Marian Rivera's FHM win in 2008 influenced Philippine popular culture by reinforcing beauty ideals that emphasized physical appearance. While she inspired body positivity, it also risked promoting unrealistic standards among young fans, potentially impacting their self-image and leading to pressure to conform to these ideals.",
+              description: "Advances in neurotechnology could allow Filipinos to alter how they perceive their bodies by rewiring brain responses related to self-image. This technology could reduce insecurities and promote body neutrality but might also create dependence on artificial interventions for self-acceptance. Ethical questions surrounding these technologies will shape their adoption in Filipino culture.",
               images: [
                 require("@/assets/gallery 2/mar1.jpg"),
-                require("@/assets/gallery 2/mar2.jpg"),
-                require("@/assets/gallery 2/mar3.webp"),
               ],
             },
             {
-              title: "Emo Culture",
+              title: "Role of education in shaping body image for the next generation",
               image: require("@/assets/section 1/cover.png"),
-              description: "Emo culture in the 2000s reshaped Philippine popular culture by promoting individuality and emotional expression. It influenced body image through distinctive fashion choices and encouraged discussions about mental health, allowing youth to embrace vulnerability and authenticity, ultimately transforming self-image and perceptions of beauty during the decade. Emo culture in the 2000s empowered Filipino youth by promoting individuality and personal expression. It encouraged them to embrace their unique identities and emotions, challenging societal norms and fostering a sense of belonging within a community that valued authenticity and diverse self-representation.",
+              description: "Schools in the Philippines may integrate body positivity and mental health education into their curricula to address self-image issues early on. Programs could include discussions about social media influence, beauty standards, and self-acceptance. This proactive approach could help the next generation develop healthier attitudes toward their bodies in an increasingly digital and appearance-focused world.",
               images: [
                 require("@/assets/gallery 2/emo1.jpg"),
-                require("@/assets/gallery 2/emo2.jpg"),
-                require("@/assets/gallery 2/emo3.jpg"),
               ],
             },
           ],
