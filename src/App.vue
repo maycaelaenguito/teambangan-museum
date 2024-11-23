@@ -729,54 +729,44 @@ export default {
           title: "2000-2010",
           subsections: [
             {
-              title: "Charice Pempengco on Oprah",
+              title: "Media",
               image: require("@/assets/section 1/cover.png"),
               description:
-                "Jake Cyrus, formerly known as Charice Pempengco, captivated audiences with her 2008 appearance on The Oprah Winfrey Show, showcasing Filipino talent on a global stage. Her powerful performances inspired national pride and encouraged aspiring artists, marking a significant moment in Philippine popular culture during the 2000s. Jake Cyrus's 2008 appearance on Oprah instilled a deep sense of pride among Filipino youth, as they saw one of their own achieving global recognition. This milestone inspired them to embrace their cultural identity and aspire to showcase their talents on an international stage.",
+                "The 2000s saw Filipino audiences increasingly exposed to global entertainment due to advancements in cable TV, DVDs, and the internet. Korean dramas, Western pop music, and Hollywood blockbusters heavily influenced Filipino tastes and performance styles. This period marked a shift toward international trends in fashion, music, and entertainment, blending global influences with Filipino culture.",
               images: [
               require("@/assets/gallery 5/char1.jpg"),
-              require("@/assets/gallery 5/char2.jpg"),
-              require("@/assets/gallery 5/char3.jpg"),
               ],
             },
             {
-              title: "Local Films like Magnifico, One More Chance, & Tanging Yaman",
+              title: "Rise of Reality TV and Talent Competitions",
               image: require("@/assets/section 1/cover.png"),
-              description: "The success of local films like Magnifico, One More Chance, and Tanging Yaman in the 2000s showcased powerful performances and emphasized family values. These movies resonated with audiences, fostering cultural pride and identity while elevating Philippine cinema as a significant force in the entertainment landscape during the decade. The success of local films in the 2000s instilled a sense of accomplishment as these award-winning movies garnered international recognition. This achievement fostered pride among Filipinos, motivating them to celebrate their cultural contributions and engage more deeply with their heritage.",
+              description: "Reality TV became a dominant genre in Philippine media, with shows like 'Pinoy Big Brother,' 'StarStruck,' and 'Philippine Idol.' These programs created platforms for aspiring performers and emphasized audience participation through voting systems. This trend democratized talent discovery, giving ordinary Filipinos opportunities to rise to fame while fostering a national obsession with reality-based entertainment.",
               images: [
               require("@/assets/gallery 5/fil1.webp"),
-              require("@/assets/gallery 5/fil2.jpg"),
-              require("@/assets/gallery 5/fil3.jpg"),
               ],
             },
             {
-              title: "Sexbomb Girls - The Spageti Song",
+              title: "Digital and Mobile Technology",
               image: require("@/assets/section 1/cover.png"),
-              description: "The Sexbomb Girls rose to fame through their appearances on Eat Bulaga in the 2000s, captivating audiences with their hit 'The Spaghetti Song'. Their catchy music, playful choreography, and humor celebrated fun and lightheartedness, significantly impacting Philippine popular culture and evolving standards of femininity.",
+              description: "The widespread adoption of mobile phones and internet cafes during this decade revolutionized communication and entertainment. Filipinos embraced texting (SMS) culture, using it not only for social interaction but also to vote in reality shows and participate in contests. This period also saw the rise of social networking platforms like Friendster and Multiply, where Filipinos showcased their creativity and self-expression.",
               images: [
               require("@/assets/gallery 5/spag1.jpg"),
-              require("@/assets/gallery 5/spag2.jpg"),
-              require("@/assets/gallery 5/spag3.webp"),
               ],
             },
             {
-              title: "Local Films like Magnifico, One More Chance, & Tanging Yaman",
+              title: "Original Filipino Music (OPM)",
               image: require("@/assets/section 1/cover.png"),
-              description: "The success of local films like Magnifico, One More Chance, and Tanging Yaman in the 2000s showcased powerful performances and emphasized family values. These movies resonated with audiences, fostering cultural pride and identity while elevating Philippine cinema as a significant force in the entertainment landscape during the decade. The success of local films in the 2000s instilled a sense of accomplishment as these award-winning movies garnered international recognition. This achievement fostered pride among Filipinos, motivating them to celebrate their cultural contributions and engage more deeply with their heritage.",
+              description: "2000s marked a resurgence of interest in Original Pilipino Music (OPM), with bands like Bamboo, Parokya ni Edgar, and Rivermaya dominating the airwaves. The rise of acoustic music by artists like Aiza Seguerra and Paolo Santos further diversified the OPM landscape. Live performances at bars and music festivals gained popularity, fostering a stronger connection between artists and fans.",
               images: [
               require("@/assets/gallery 5/fil1.webp"),
-              require("@/assets/gallery 5/fil2.jpg"),
-              require("@/assets/gallery 5/fil3.jpg"),
               ],
             },
             {
-              title: "Sexbomb Girls - The Spageti Song",
+              title: "Cultural Festivals",
               image: require("@/assets/section 1/cover.png"),
-              description: "The Sexbomb Girls rose to fame through their appearances on Eat Bulaga in the 2000s, captivating audiences with their hit 'The Spaghetti Song'. Their catchy music, playful choreography, and humor celebrated fun and lightheartedness, significantly impacting Philippine popular culture and evolving standards of femininity.",
+              description: "Traditional festivals like Sinulog, MassKara, and Kadayawan began incorporating contemporary music, dance, and staging techniques to attract younger audiences. These events retained their cultural roots while modernizing their presentation to keep up with evolving tastes. The blend of tradition and innovation highlighted Filipinos' adaptability and creativity.",
               images: [
               require("@/assets/gallery 5/spag1.jpg"),
-              require("@/assets/gallery 5/spag2.jpg"),
-              require("@/assets/gallery 5/spag3.webp"),
               ],
             },
           ],
@@ -785,54 +775,44 @@ export default {
           title: "Present Time",
           subsections: [
             {
-              title: "Charice Pempengco on Oprah",
+              title: "Representation and Diversity in Media",
               image: require("@/assets/section 1/cover.png"),
               description:
-                "Jake Cyrus, formerly known as Charice Pempengco, captivated audiences with her 2008 appearance on The Oprah Winfrey Show, showcasing Filipino talent on a global stage. Her powerful performances inspired national pride and encouraged aspiring artists, marking a significant moment in Philippine popular culture during the 2000s. Jake Cyrus's 2008 appearance on Oprah instilled a deep sense of pride among Filipino youth, as they saw one of their own achieving global recognition. This milestone inspired them to embrace their cultural identity and aspire to showcase their talents on an international stage.",
+                "Media and entertainment in the Philippines are beginning to embrace more diverse body types, skin tones, and gender identities. Campaigns like body positivity movements and LGBTQ+ representation in shows and films reflect a shift toward inclusivity. While traditional beauty standards still hold influence, younger audiences demand authentic representation and narratives that resonate with their experiences.",
               images: [
               require("@/assets/gallery 5/char1.jpg"),
-              require("@/assets/gallery 5/char2.jpg"),
-              require("@/assets/gallery 5/char3.jpg"),
               ],
             },
             {
-              title: "Local Films like Magnifico, One More Chance, & Tanging Yaman",
+              title: "Integration of Technology in Live Performances",
               image: require("@/assets/section 1/cover.png"),
-              description: "The success of local films like Magnifico, One More Chance, and Tanging Yaman in the 2000s showcased powerful performances and emphasized family values. These movies resonated with audiences, fostering cultural pride and identity while elevating Philippine cinema as a significant force in the entertainment landscape during the decade. The success of local films in the 2000s instilled a sense of accomplishment as these award-winning movies garnered international recognition. This achievement fostered pride among Filipinos, motivating them to celebrate their cultural contributions and engage more deeply with their heritage.",
+              description: "Filipino concerts, theater productions, and festivals are increasingly incorporating advanced technology like AR, VR, and 3D projections. Events now blend physical and digital experiences to create immersive spectacles that attract tech-savvy audiences. Virtual concerts and hybrid events, which became popular during the pandemic, continue to thrive, allowing performers to connect with audiences both locally and globall",
               images: [
               require("@/assets/gallery 5/fil1.webp"),
-              require("@/assets/gallery 5/fil2.jpg"),
-              require("@/assets/gallery 5/fil3.jpg"),
               ],
             },
             {
-              title: "Sexbomb Girls - The Spageti Song",
+              title: "Filipino Talents",
               image: require("@/assets/section 1/cover.png"),
-              description: "The Sexbomb Girls rose to fame through their appearances on Eat Bulaga in the 2000s, captivating audiences with their hit 'The Spaghetti Song'. Their catchy music, playful choreography, and humor celebrated fun and lightheartedness, significantly impacting Philippine popular culture and evolving standards of femininity.",
+              description: "Filipino performers are gaining more recognition on the global stage, with artists like SB19, Bella Poarch, and H.E.R. making waves internationally. Social media and streaming platforms like Spotify and YouTube have played crucial roles in showcasing Filipino creativity to global audiences. This trend has led to increased pride in local talent and a stronger push for more Filipino representation in international media.",
               images: [
               require("@/assets/gallery 5/spag1.jpg"),
-              require("@/assets/gallery 5/spag2.jpg"),
-              require("@/assets/gallery 5/spag3.webp"),
               ],
             },
             {
-              title: "Local Films like Magnifico, One More Chance, & Tanging Yaman",
+              title: "E-Sports and Gaming",
               image: require("@/assets/section 1/cover.png"),
-              description: "The success of local films like Magnifico, One More Chance, and Tanging Yaman in the 2000s showcased powerful performances and emphasized family values. These movies resonated with audiences, fostering cultural pride and identity while elevating Philippine cinema as a significant force in the entertainment landscape during the decade. The success of local films in the 2000s instilled a sense of accomplishment as these award-winning movies garnered international recognition. This achievement fostered pride among Filipinos, motivating them to celebrate their cultural contributions and engage more deeply with their heritage.",
+              description: "Gaming has become a dominant form of entertainment in the Philippines, with professional e-sports leagues, streaming platforms, and gaming influencers capturing large audiences. Performances in gaming, such as live-streamed gameplay or virtual tournaments, are viewed as competitive and artistic expressions. This trend has created new opportunities for performers and athletes in the gaming industry.",
               images: [
               require("@/assets/gallery 5/fil1.webp"),
-              require("@/assets/gallery 5/fil2.jpg"),
-              require("@/assets/gallery 5/fil3.jpg"),
               ],
             },
             {
-              title: "Sexbomb Girls - The Spageti Song",
+              title: "Mental Health and Wellness",
               image: require("@/assets/section 1/cover.png"),
-              description: "The Sexbomb Girls rose to fame through their appearances on Eat Bulaga in the 2000s, captivating audiences with their hit 'The Spaghetti Song'. Their catchy music, playful choreography, and humor celebrated fun and lightheartedness, significantly impacting Philippine popular culture and evolving standards of femininity.",
+              description: "The entertainment industry is addressing mental health more openly, with themes related to anxiety, depression, and self-care appearing in TV shows, films, and online content. Performers are also using their platforms to advocate for mental health awareness, fostering discussions around emotional well-being. This shift reflects the growing importance of holistic self-expression in performance and art.",
               images: [
               require("@/assets/gallery 5/spag1.jpg"),
-              require("@/assets/gallery 5/spag2.jpg"),
-              require("@/assets/gallery 5/spag3.webp"),
               ],
             },
           ],
@@ -841,54 +821,44 @@ export default {
           title: "Impact of the Past to Present Trend",
           subsections: [
             {
-              title: "Charice Pempengco on Oprah",
+              title: "Filipino Pop Culture",
               image: require("@/assets/section 1/cover.png"),
               description:
-                "Jake Cyrus, formerly known as Charice Pempengco, captivated audiences with her 2008 appearance on The Oprah Winfrey Show, showcasing Filipino talent on a global stage. Her powerful performances inspired national pride and encouraged aspiring artists, marking a significant moment in Philippine popular culture during the 2000s. Jake Cyrus's 2008 appearance on Oprah instilled a deep sense of pride among Filipino youth, as they saw one of their own achieving global recognition. This milestone inspired them to embrace their cultural identity and aspire to showcase their talents on an international stage.",
+                "The exposure to global entertainment in the 2000s—through cable TV, DVDs, and the internet—paved the way for the widespread adoption of international trends today. Korean dramas and Western pop music, introduced in the 2000s, have evolved into mainstream preferences, with K-pop dominating Filipino music charts and global streaming platforms expanding Filipino access to diverse content. The cultural fusion of past and present is evident in how Filipinos incorporate global influences into their local artistry.",
               images: [
               require("@/assets/gallery 5/char1.jpg"),
-              require("@/assets/gallery 5/char2.jpg"),
-              require("@/assets/gallery 5/char3.jpg"),
               ],
             },
             {
-              title: "Local Films like Magnifico, One More Chance, & Tanging Yaman",
+              title: "From Reality TV to Social Media Fame",
               image: require("@/assets/section 1/cover.png"),
-              description: "The success of local films like Magnifico, One More Chance, and Tanging Yaman in the 2000s showcased powerful performances and emphasized family values. These movies resonated with audiences, fostering cultural pride and identity while elevating Philippine cinema as a significant force in the entertainment landscape during the decade. The success of local films in the 2000s instilled a sense of accomplishment as these award-winning movies garnered international recognition. This achievement fostered pride among Filipinos, motivating them to celebrate their cultural contributions and engage more deeply with their heritage.",
+              description: "The rise of reality TV in the 2000s democratized access to fame, a concept that has evolved with social media platforms like TikTok and YouTube. Shows like Pinoy Big Brother introduced the idea of audience participation in talent discovery, which has now transitioned to likes, shares, and comments as a measure of success. Today’s influencers and creators owe much to the participatory culture of the 2000s, where fans first shaped public recognition.",
               images: [
               require("@/assets/gallery 5/fil1.webp"),
-              require("@/assets/gallery 5/fil2.jpg"),
-              require("@/assets/gallery 5/fil3.jpg"),
               ],
             },
             {
-              title: "Sexbomb Girls - The Spageti Song",
+              title: "Beauty Standards",
               image: require("@/assets/section 1/cover.png"),
-              description: "The Sexbomb Girls rose to fame through their appearances on Eat Bulaga in the 2000s, captivating audiences with their hit 'The Spaghetti Song'. Their catchy music, playful choreography, and humor celebrated fun and lightheartedness, significantly impacting Philippine popular culture and evolving standards of femininity.",
+              description: "Skin-whitening trends of the 2000s have left a lingering impact on Filipino beauty standards, although there is a growing movement toward inclusivity and natural skin tones today. While whitening products remain popular, the rise of global campaigns promoting diversity and the body positivity movement have sparked a shift in perceptions. Past colonial ideals still shape beauty standards, but present trends reflect a growing resistance to such norms.",
               images: [
               require("@/assets/gallery 5/spag1.jpg"),
-              require("@/assets/gallery 5/spag2.jpg"),
-              require("@/assets/gallery 5/spag3.webp"),
               ],
             },
             {
-              title: "Local Films like Magnifico, One More Chance, & Tanging Yaman",
+              title: "SMS to Social Media",
               image: require("@/assets/section 1/cover.png"),
-              description: "The success of local films like Magnifico, One More Chance, and Tanging Yaman in the 2000s showcased powerful performances and emphasized family values. These movies resonated with audiences, fostering cultural pride and identity while elevating Philippine cinema as a significant force in the entertainment landscape during the decade. The success of local films in the 2000s instilled a sense of accomplishment as these award-winning movies garnered international recognition. This achievement fostered pride among Filipinos, motivating them to celebrate their cultural contributions and engage more deeply with their heritage.",
+              description: "The texting (SMS) culture of the 2000s, used for voting in reality shows and connecting with friends, has evolved into full-scale social media activism and engagement. The participatory mindset instilled during this period now drives campaigns, crowdfunding, and fandom support for artists on platforms like Twitter and Facebook. Social media trends owe much to the interactive culture initiated during the 2000s.",
               images: [
               require("@/assets/gallery 5/fil1.webp"),
-              require("@/assets/gallery 5/fil2.jpg"),
-              require("@/assets/gallery 5/fil3.jpg"),
               ],
             },
             {
-              title: "Sexbomb Girls - The Spageti Song",
+              title: "Indie Films",
               image: require("@/assets/section 1/cover.png"),
-              description: "The Sexbomb Girls rose to fame through their appearances on Eat Bulaga in the 2000s, captivating audiences with their hit 'The Spaghetti Song'. Their catchy music, playful choreography, and humor celebrated fun and lightheartedness, significantly impacting Philippine popular culture and evolving standards of femininity.",
+              description: "The indie film movement, which gained momentum in the 2000s through festivals like Cinemalaya, has propelled Filipino filmmakers to global stages today. The bold storytelling and artistic experimentation introduced during this period continue to inspire modern directors, with many receiving international acclaim. Streaming platforms have further amplified the reach of Filipino indie films, solidifying their cultural impact.",
               images: [
               require("@/assets/gallery 5/spag1.jpg"),
-              require("@/assets/gallery 5/spag2.jpg"),
-              require("@/assets/gallery 5/spag3.webp"),
               ],
             },
           ],
@@ -896,55 +866,45 @@ export default {
         {
           title: "Impact to 2030",
           subsections: [
+          {
+              title: "Digital Education",
+              image: require("@/assets/section 1/cover.png"),
+              description: "The increasing popularity of online learning platforms will make arts education more accessible by 2030. Filipino performers will benefit from virtual masterclasses, AI-driven training, and online mentorship, breaking barriers for those in rural areas. Current trends in e-learning, coupled with advancements in AI, will allow aspiring artists to refine their skills without the need for traditional institutions. This will democratize arts education but may lead to a saturation of talent competing for limited opportunities.",
+              images: [
+              require("@/assets/gallery 5/spag1.jpg"),
+              ],
+            },
             {
-              title: "Charice Pempengco on Oprah",
+              title: "AI-Generated Contents",
               image: require("@/assets/section 1/cover.png"),
               description:
-                "Jake Cyrus, formerly known as Charice Pempengco, captivated audiences with her 2008 appearance on The Oprah Winfrey Show, showcasing Filipino talent on a global stage. Her powerful performances inspired national pride and encouraged aspiring artists, marking a significant moment in Philippine popular culture during the 2000s. Jake Cyrus's 2008 appearance on Oprah instilled a deep sense of pride among Filipino youth, as they saw one of their own achieving global recognition. This milestone inspired them to embrace their cultural identity and aspire to showcase their talents on an international stage.",
+                "AI will play a significant role in creating performances by 2030, with AI-generated music, choreography, and even virtual performers becoming mainstream. Filipino artists will use AI tools to enhance creativity and efficiency, tailoring performances to audience preferences. Virtual performers and avatars will collaborate with human artists, blending artificial intelligence with human creativity. This will spark debates on authenticity and redefine the boundaries of performance art.",
               images: [
               require("@/assets/gallery 5/char1.jpg"),
-              require("@/assets/gallery 5/char2.jpg"),
-              require("@/assets/gallery 5/char3.jpg"),
               ],
             },
             {
-              title: "Local Films like Magnifico, One More Chance, & Tanging Yaman",
+              title: "Representation and Inclusion in Media",
               image: require("@/assets/section 1/cover.png"),
-              description: "The success of local films like Magnifico, One More Chance, and Tanging Yaman in the 2000s showcased powerful performances and emphasized family values. These movies resonated with audiences, fostering cultural pride and identity while elevating Philippine cinema as a significant force in the entertainment landscape during the decade. The success of local films in the 2000s instilled a sense of accomplishment as these award-winning movies garnered international recognition. This achievement fostered pride among Filipinos, motivating them to celebrate their cultural contributions and engage more deeply with their heritage.",
+              description: "Current advocacy for diversity and inclusion will likely transform Filipino media by 2030. Representation of different body types, skin tones, gender identities, and abilities will become standard in performances, films, and advertising. This shift will encourage more authentic storytelling and foster greater self-acceptance among audiences, shaping societal perceptions of beauty and talent.",
               images: [
               require("@/assets/gallery 5/fil1.webp"),
-              require("@/assets/gallery 5/fil2.jpg"),
-              require("@/assets/gallery 5/fil3.jpg"),
               ],
             },
             {
-              title: "Sexbomb Girls - The Spageti Song",
+              title: "Traditional Arts",
               image: require("@/assets/section 1/cover.png"),
-              description: "The Sexbomb Girls rose to fame through their appearances on Eat Bulaga in the 2000s, captivating audiences with their hit 'The Spaghetti Song'. Their catchy music, playful choreography, and humor celebrated fun and lightheartedness, significantly impacting Philippine popular culture and evolving standards of femininity.",
+              description: "Efforts to preserve Filipino cultural heritage today will bear fruit by 2030, with AR and VR technologies bringing traditional dances, music, and festivals to life for younger generations. Immersive experiences will allow audiences to interact with cultural performances and historical narratives, ensuring that tradition remains relevant in a digital-first world. Filipino artists will lead this fusion of heritage and innovation, exporting cultural performances globally.",
               images: [
               require("@/assets/gallery 5/spag1.jpg"),
-              require("@/assets/gallery 5/spag2.jpg"),
-              require("@/assets/gallery 5/spag3.webp"),
               ],
             },
             {
-              title: "Local Films like Magnifico, One More Chance, & Tanging Yaman",
+              title: "E-Sports",
               image: require("@/assets/section 1/cover.png"),
-              description: "The success of local films like Magnifico, One More Chance, and Tanging Yaman in the 2000s showcased powerful performances and emphasized family values. These movies resonated with audiences, fostering cultural pride and identity while elevating Philippine cinema as a significant force in the entertainment landscape during the decade. The success of local films in the 2000s instilled a sense of accomplishment as these award-winning movies garnered international recognition. This achievement fostered pride among Filipinos, motivating them to celebrate their cultural contributions and engage more deeply with their heritage.",
+              description: "The rapid growth of gaming culture and e-sports in the Philippines, driven by improved internet access and affordable gaming setups, will make it a dominant entertainment sector by 2030. Filipino gamers and teams will compete globally, and e-sports events will rival traditional performances in terms of audience size and engagement. Platforms like Twitch and YouTube Gaming will elevate gaming as both a sport and a performance, with opportunities for storytelling, audience interaction, and even sponsorships rivaling traditional media.",
               images: [
               require("@/assets/gallery 5/fil1.webp"),
-              require("@/assets/gallery 5/fil2.jpg"),
-              require("@/assets/gallery 5/fil3.jpg"),
-              ],
-            },
-            {
-              title: "Sexbomb Girls - The Spageti Song",
-              image: require("@/assets/section 1/cover.png"),
-              description: "The Sexbomb Girls rose to fame through their appearances on Eat Bulaga in the 2000s, captivating audiences with their hit 'The Spaghetti Song'. Their catchy music, playful choreography, and humor celebrated fun and lightheartedness, significantly impacting Philippine popular culture and evolving standards of femininity.",
-              images: [
-              require("@/assets/gallery 5/spag1.jpg"),
-              require("@/assets/gallery 5/spag2.jpg"),
-              require("@/assets/gallery 5/spag3.webp"),
               ],
             },
           ],
