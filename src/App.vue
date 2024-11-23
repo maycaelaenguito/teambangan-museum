@@ -160,7 +160,7 @@ export default {
               image: require("@/assets/section 1/cover.png"),
               description: "On September 26, 2009, Tropical Storm Ondoy (internationally known as Ketsana) struck the Philippines, bringing an unprecedented 455 millimeters of rainfall within 24 hours, the highest recorded in 42 years. This deluge led to severe flooding across Metro Manila and surrounding provinces, with waters reaching up to 20 feet in some areas. The disaster affected over 9.3 million people, resulted in 956 fatalities, and caused extensive damage to infrastructure and agriculture. In response, the government declared a state of calamity in Metro Manila and 25 provinces, mobilizing resources for rescue and relief operations. The event highlighted the need for improved disaster preparedness and climate resilience in the Philippines.",
               images: [
-              require("@/assets/gallery 1/pal1.jpg"),
+              require("@/assets/gallery 1/ondoy.jpeg"),
               ],
             },
           ],
@@ -176,7 +176,7 @@ export default {
               description:
                 "In October 2022, Elon Musk acquired Twitter for $44 billion, initiating significant transformations within the platform. In July 2023, Musk rebranded Twitter as 'X' replacing its iconic bird logo with a stylized 'X' and redirecting the domain to x.com. This rebranding was part of Musk's vision to develop X into an 'everything app' akin to China's WeChat, integrating various services beyond social networking. The transition involved merging Twitter, Inc. into X Corp., effectively dissolving the original company structure. These changes have sparked discussions about the platform's future direction and its role in the social media landscape.",
               images: [
-              require("@/assets/gallery 1/1_16a082288a7.1665217_806339932_16a082288a7_large.jpg"),
+              require("@/assets/gallery 1/elon.webp"),
               ],
             },
             {
@@ -185,7 +185,7 @@ export default {
               image: require("@/assets/section 1/cover.png"),
               description: "In 2023, the Philippines became the world's largest rice importer, surpassing China with 3.8 million metric tons (MMT) of imports, projected to reach 4.1 MMT in 2024. (philstar.com) Despite being the seventh-largest rice producer globally, domestic production struggles to meet rising demand due to population growth and consumption. (business.inquirer.net) Vietnam remains the top supplier, emphasizing the Philippines' dependence on imported rice to sustain its food security.",
               images: [
-              require("@/assets/gallery 1/bgm1.jpg"),
+              require("@/assets/gallery 1/rice.jpg"),
               ],
             },
             {
