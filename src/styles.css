@@ -62,7 +62,6 @@
   .museum-header {
     text-align: center;
     color: white;
-    height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -74,6 +73,17 @@
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
+  }
+
+  .museum-header, .group-section, section, .museum-section{
+    height: 100vh;
+  }
+
+  .intro{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
   }
 
   .museum-header h1{
@@ -126,7 +136,6 @@
   }
   
   .group-section {
-    height: 100vh;
     display: grid;
     grid-template-columns: 1.5fr 1fr;
     background-size: cover;
@@ -185,7 +194,6 @@
   .museum-section {
     padding:  0 10%;
     color: black;
-    min-height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -194,8 +202,8 @@
 
   .subsections{
     display: grid;
-    gap: 5rem;
-    grid-template-columns: 1fr 1fr 1fr;
+    gap: 2rem;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
     width: 100%;
   }
   
