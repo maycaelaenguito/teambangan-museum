@@ -633,54 +633,44 @@ export default {
           title: "Present Time",
           subsections: [
             {
-              title: "Charice Pempengco on Oprah",
+              title: "TikTok",
               image: require("@/assets/section 1/cover.png"),
               description:
-                "Jake Cyrus, formerly known as Charice Pempengco, captivated audiences with her 2008 appearance on The Oprah Winfrey Show, showcasing Filipino talent on a global stage. Her powerful performances inspired national pride and encouraged aspiring artists, marking a significant moment in Philippine popular culture during the 2000s. Jake Cyrus's 2008 appearance on Oprah instilled a deep sense of pride among Filipino youth, as they saw one of their own achieving global recognition. This milestone inspired them to embrace their cultural identity and aspire to showcase their talents on an international stage.",
+                "TikTok has become the dominant platform for performance, enabling Filipinos to showcase their talents in singing, dancing, acting, and even comedy. With short, engaging videos, performers can quickly reach global audiences, bypassing traditional media. The app's algorithm rewards creativity and consistency, making it easier for undiscovered talent to gain popularity. Dance trends, lip-sync battles, and original skits have become key avenues for expression, redefining what it means to perform in the digital age. This shift has also blurred the line between amateur and professional performers, allowing everyday Filipinos to become influential content creators.",
               images: [
               require("@/assets/gallery 5/char1.jpg"),
-              require("@/assets/gallery 5/char2.jpg"),
-              require("@/assets/gallery 5/char3.jpg"),
               ],
             },
             {
-              title: "Local Films like Magnifico, One More Chance, & Tanging Yaman",
+              title: "Filipino drag performances",
               image: require("@/assets/section 1/cover.png"),
-              description: "The success of local films like Magnifico, One More Chance, and Tanging Yaman in the 2000s showcased powerful performances and emphasized family values. These movies resonated with audiences, fostering cultural pride and identity while elevating Philippine cinema as a significant force in the entertainment landscape during the decade. The success of local films in the 2000s instilled a sense of accomplishment as these award-winning movies garnered international recognition. This achievement fostered pride among Filipinos, motivating them to celebrate their cultural contributions and engage more deeply with their heritage.",
+              description: "Drag culture in the Philippines has gained mainstream recognition through shows like 'Drag Den' and 'Drag Race Philippines.' Drag queens now blend lip-syncing, comedy, and fashion into highly theatrical performances that challenge traditional gender norms. These shows have created new opportunities for LGBTQ+ performers, fostering acceptance and visibility. Drag bars and competitions have become thriving hubs for creativity, showcasing the unique blend of humor, drama, and artistry in Filipino drag performances.",
               images: [
               require("@/assets/gallery 5/fil1.webp"),
-              require("@/assets/gallery 5/fil2.jpg"),
-              require("@/assets/gallery 5/fil3.jpg"),
               ],
             },
             {
-              title: "Sexbomb Girls - The Spageti Song",
+              title: "Social media livestreams",
               image: require("@/assets/section 1/cover.png"),
-              description: "The Sexbomb Girls rose to fame through their appearances on Eat Bulaga in the 2000s, captivating audiences with their hit 'The Spaghetti Song'. Their catchy music, playful choreography, and humor celebrated fun and lightheartedness, significantly impacting Philippine popular culture and evolving standards of femininity.",
+              description: "Livestreaming platforms like Kumu, Facebook Live, and YouTube Live have become essential tools for Filipino performers to connect with audiences. Singers, bands, and comedians use these streams to perform in real time, often engaging directly with fans through chat. These livestreams allow performers to earn income through virtual gifts and sponsorships while maintaining intimate connections with their audiences. This interactive form of performance has changed how Filipinos consume entertainment, prioritizing accessibility and personal engagement.",
               images: [
               require("@/assets/gallery 5/spag1.jpg"),
-              require("@/assets/gallery 5/spag2.jpg"),
-              require("@/assets/gallery 5/spag3.webp"),
               ],
             },
             {
-              title: "Local Films like Magnifico, One More Chance, & Tanging Yaman",
+              title: "Dance competitions",
               image: require("@/assets/section 1/cover.png"),
-              description: "The success of local films like Magnifico, One More Chance, and Tanging Yaman in the 2000s showcased powerful performances and emphasized family values. These movies resonated with audiences, fostering cultural pride and identity while elevating Philippine cinema as a significant force in the entertainment landscape during the decade. The success of local films in the 2000s instilled a sense of accomplishment as these award-winning movies garnered international recognition. This achievement fostered pride among Filipinos, motivating them to celebrate their cultural contributions and engage more deeply with their heritage.",
+              description: "Dance competitions remain a vital part of Filipino youth culture, with groups like UPeepz and A-Team gaining international acclaim. These teams often combine hip-hop, contemporary, and cultural dance elements in their routines, showcasing the versatility of Filipino performers. Competitions, both local and international, push dancers to innovate and achieve technical mastery. The inclusion of digital platforms like YouTube and Instagram has allowed these performances to reach global audiences, inspiring the next generation of Filipino dancers.",
               images: [
               require("@/assets/gallery 5/fil1.webp"),
-              require("@/assets/gallery 5/fil2.jpg"),
-              require("@/assets/gallery 5/fil3.jpg"),
               ],
             },
             {
-              title: "Sexbomb Girls - The Spageti Song",
+              title: "Festival performances",
               image: require("@/assets/section 1/cover.png"),
-              description: "The Sexbomb Girls rose to fame through their appearances on Eat Bulaga in the 2000s, captivating audiences with their hit 'The Spaghetti Song'. Their catchy music, playful choreography, and humor celebrated fun and lightheartedness, significantly impacting Philippine popular culture and evolving standards of femininity.",
+              description: "Philippine festivals like Sinulog, Panagbenga, and MassKara now incorporate cutting-edge technology, including LED lighting, drones, and 3D mapping, to enhance their traditional performances. Dance and music are still at the core, but the visual spectacle has become a major draw for younger audiences. These performances continue to celebrate Filipino culture while adapting to modern tastes and technological advancements, creating a fusion of tradition and innovation.",
               images: [
               require("@/assets/gallery 5/spag1.jpg"),
-              require("@/assets/gallery 5/spag2.jpg"),
-              require("@/assets/gallery 5/spag3.webp"),
               ],
             },
           ],
