@@ -374,7 +374,7 @@
     font-size: 2rem;
   }
 
-  .museum-section .intro{
+  .museum-section .intro, .closing h1{
     margin-top: 1rem;
     font-family: "Cormorant Garamond", serif;
     font-weight: 500;
@@ -398,6 +398,15 @@
   }
 
   .subintro {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .closing{
+    background-color: #af0010;
+    margin: 0;
+    padding: 0;
     display: flex;
     justify-content: center;
     align-items: center;

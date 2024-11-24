@@ -1,3 +1,4 @@
+
 <template>
   <div id="app" class="digital-museum">
     <div class="hide">
@@ -87,6 +88,10 @@
             </div>
             </div>
       </div>
+    </section>
+
+    <section class="closing">
+      <h1>Thank you for visiting Ocho-ocho Digital Museum</h1>
     </section>
 
     <!-- Virtual Room Modal -->
@@ -1004,9 +1009,6 @@ export default {
 
           ]
         },
-        {
-          title: "Thank you for visiting Ocho-ocho Digital Museum",
-        },
   
       ],
     
@@ -1050,8 +1052,6 @@ export default {
         { type: 'image', value: require("@/assets/bg/4.png")},
         { type: 'image', value: require("@/assets/bg/4.png")},
         { type: 'image', value: require("@/assets/bg/blackcover.png")},
-        { type: 'background-color', value: "white" },
-       
       ];
 
       const bg = backgrounds[index % backgrounds.length]; // Cycle through backgrounds
