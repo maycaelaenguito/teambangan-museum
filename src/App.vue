@@ -829,7 +829,7 @@ export default {
               image: require("@/assets/section 1/cover.png"),
               description: "Filipino performers are gaining more recognition on the global stage, with artists like SB19, Bella Poarch, and H.E.R. making waves internationally. Social media and streaming platforms like Spotify and YouTube have played crucial roles in showcasing Filipino creativity to global audiences. This trend has led to increased pride in local talent and a stronger push for more Filipino representation in international media.",
               images: [
-              require("@/assets/gallery 5/bellapo.jpg"),
+              require("@/assets/gallery 5/sb19.jpg"),
               ],
             },
             {
