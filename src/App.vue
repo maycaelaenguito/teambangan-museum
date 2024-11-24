@@ -45,9 +45,16 @@
               minHeight: '100vh',
             }"
           >
-      <h3>{{ section.title }}</h3>
-      <p>{{ section.subintro }}</p>
-      <div class="subsections">
+            <h3>{{ section.title }}</h3>
+            <p>{{ section.subintro }}</p>
+            <div>
+              <ul class="reference-container">
+                <li v-for="(ref, index) in section.references" :key="index">
+                  {{ ref }}
+                </li>
+              </ul>
+            </div>
+            <div class="subsections">
         <div
           v-for="(subsection, subsectionIndex) in section.subsections"
           :key="subsectionIndex"
@@ -953,6 +960,44 @@ export default {
               ],
             },
           ],
+        },
+        {
+          title: "References",
+          references: [
+            "Rossen, J. (2018, September 13). Antisocial media: the rise and fall of Friendster. Mental Floss. https://www.mentalfloss.com/article/556413/friendster-rise-and-fall-jonathan-abrams?utm_source=chatgpt.com",
+            "Wikipedia contributors. (2024, October 30). Friendster. Wikipedia. https://en.wikipedia.org/wiki/Friendster?utm_source=chatgpt.com",
+            "Natividad, N. (2015, July 2). A history of the BPO industry in numbers. RAPPLER. https://www.rappler.com/brandrap/profiles-and-advocacies/98207-bpo-philippines-timeline/?utm_source=chatgpt.com",
+            "Mercado, L. (2024, October 9). History of outsourcing in the Philippines. Outsource Philippines. https://outsource-philippines.com/the-history-of-outsourcing-in-the-philippines-key-milestones-and-growth/?utm_source=chatgpt.com",
+            "The Philippines: Extremism and Terrorism. (n.d.). The Counter Extremism Project. Retrieved November 23, 2024, from https://www.counterextremism.com/countries/philippines-extremism-and-terrorism?",
+            "Brey, J. (2023). Terrorism in the Philippines: Persistent threat and effective response. Contemporary Issues in Air and Space Power, 1(1), bp33148316. https://doi.org/10.58930/bp33148316",
+            "Republic Act No. 10066. (n.d.-b). https://lawphil.net/statutes/repacts/ra2010/ra_10066_2010.html?",
+            "Wikipedia contributors. (2024b, November 20). Typhoon Ketsana. Wikipedia. https://en.wikipedia.org/wiki/Typhoon_Ketsana",
+            "Global Facility for Disaster Reduction and Recovery (GFDRR). (n.d.). Philippines- 2009- Typhoons Ondoy and Pepeng affected 9.3 million people | GFDRR. www.gfdrr.org. https://www.gfdrr.org/en/philippines-2009-typhoons-ondoy-and-pepeng-affected-93-million-people",
+            "National Disaster Coordinating Council (NDCC). (2010, September 27). Philippines: NDCC UPDATE - Final Report on Tropical Storm “ONDOY” and Typhoon “PEPENG” - Philippines | ReliefWeb. Reliefweb.int. https://reliefweb.int/report/philippines/philippines-ndcc-update-final-report-tropical-storm-ondoy-and-typhoon-pepeng",
+            "United Nations Office for the Coordination of Humanitarian Affairs. (2024). Ketsana Reports. Unocha.org. https://www.unocha.org/results?q=ketsana#gsc.tab=0&gsc.q=ketsana&gsc.page=1",
+            "Lagare, J. B. (2024, October 14). PH remains world's largest rice importer. INQUIRER.net. https://business.inquirer.net/484774/ph-remains-worlds-largest-rice-importer",
+            "Wikipedia contributors. (2024e, November 21). Philippine drug war. Wikipedia. https://en.wikipedia.org/wiki/Philippine_drug_war",
+            "Vlacano. (2021, December 9). YouTube FanFest 2021: A three-day celebration of Filipino talent and diversity. POP! https://pop.inquirer.net/115198/youtube-fanfest-2021-a-three-day-celebration-of-filipino-talent-and-diversity",
+            "Wikipedia contributors. (2024d, November 22). Tropical Storm Trami (2024). Wikipedia. https://en.wikipedia.org/wiki/Tropical_Storm_Trami_(2024)",
+            "Suciu, P. (2023, November 10). How Elon Musk changed Twitter a year and $44 billion later. Forbes. https://www.forbes.com/sites/petersuciu/2023/11/08/twitter-has-changed-a-lot-since-elon-musk-bought-it-a-year-ago/",
+            "Wikipedia contributors. (2024, November 11). Precious Lara Quigaman. Wikipedia. https://en.wikipedia.org/wiki/Precious_Lara_Quigaman",
+            "Wikipedia contributors. (2024b, November 18). Marian Rivera. Wikipedia. https://en.wikipedia.org/wiki/Marian_Rivera",
+            "Wikipedia contributors. (2024a, November 5). Emo subculture. Wikipedia. https://en.wikipedia.org/wiki/Emo_subculture",
+            "A brief history of hobby and fandom conventions in the Philippines. (n.d.). https://charles-tan.blogspot.com/2007/10/brief-history-of-hobby-and-fandom.html",
+            "Serrano, C. J., Conda, C., III, Cruz, J. E., & Guzman, G. K. (2022). “What's Wrong with One More Episode?”: Why Korean Dramas are a Hit in the Philippines. DLSU SHS Research Congress. https://animorepository.dlsu.edu.ph/cgi/viewcontent.cgi?article=1007&context=conf_shsrescon",
+            "Arroyo, A., Chong, E., Concha, G., & Sy, F. (2023). The Negative Effects of TikTok To The Body Image of The Grade 12 DLSU-Taft Female Students. DLSU SHS Research Congress, 5th. https://animorepository.dlsu.edu.ph/cgi/viewcontent.cgi?article=1761&context=conf_shsrescon",
+            "Prieler, Michael & Centeno, Dave. (2013). Gender Representation in Philippine Television Advertisements. Sex Roles. 69. 10.1007/s11199-013-0301-4. https://www.researchgate.net/publication/257663762_Gender_Representation_in_Philippine_Television_Advertisements",
+            "Mercado, M. (2022, January 6). Skin lightening in Manila: body confidence or body colonialism? Medium. https://medium.com/writ-150-at-usc-fall-2020/skin-lightening-in-manila-body-confidence-or-body-colonialism-f916a6eef189",
+            "Adorable, G. (2021). Cosmetic Surgery and Media: Contributing to Filipino women's beauty ideals and Self-Esteem. Pup. https://www.academia.edu/23184322/Cosmetic_Surgery_and_Media_Contributing_to_Filipino_Women_s_Beauty_Ideals_and_Self_Esteem",
+            "Corpuz, A. (n.d.). Impact of Korean-Pop on the beauty standards of young Filipinos. Scribd. https://www.scribd.com/document/652993588/Impact-of-Korean-Pop-on-the-Beauty-Standards-of-Young-Filipinos",
+            "The Metaverse is here: Virtual reality's leap toward connecting worlds. (n.d.). The Benildean. https://read.thebenildean.org/2023/01/the-metaverse-is-here-virtual-realitys-leap-toward-connecting-worlds",
+            "DOST-PCHRD. (2024). Pinoy researchers advance bone repair with AI and 3D Printing. Philippine Council for Health Research and Development - DOST Article. https://www.stii.dost.gov.ph/1817-pinoy-researchers-advance-bone-repair-with-ai-and-3d-printing",
+            "Full-Colorism Television | Writing program. (n.d.). © 2024 Boston University. https://www.bu.edu/writingprogram/journal/past-issues/issue-10/delossantos/#:~:text=She%20recognized%20that%20colorism%20was,the%20sun%20to%20feel%20beautiful.",
+            "Bhidayasiri, R. (2024). The grand challenge at the frontiers of neurotechnology and its emerging clinical applications. Frontiers in Neurology, 15. https://doi.org/10.3389/fneur.2024.1314477",
+            "Li, W., Arienzo, D., & Feusner, J. D. (2013). Body Dysmorphic Disorder: Neurobiological Features and an Updated Model. Zeitschrift Fur Klinische Psychologie Und Psychotherapie (Gottingen, Germany), 42(3), 184-191. https://doi.org/10.1026/1616-3443/a000213",
+            "Regencia, Z. J. G., Gouin, J., Ladia, M. a. J., Montoya, J. C., & Baja, E. S. (2023). Effect of body image perception and skin-lightening practices on mental health of Filipino emerging adults: a mixed-methods approach protocol. BMJ Open, 13(5), e068561. https://doi.org/10.1136/bmjopen-2022-068561"
+
+          ]
         },
         {
           title: "Thank you for visiting Ocho-ocho Digital Museum",
