@@ -381,7 +381,7 @@ export default {
               title: "High inflation in the Philippines",
               subtitle: "High inflation in the Philippines",
               image: require("@/assets/section 1/cover.png"),
-              description: "he rising cost of goods and services in the Philippines impacts how Filipinos experience their daily lives, from the sensory adjustments of cutting back on food choices to the emotional stress of financial strain. This topic examines how inflation shapes feelings of anxiety, resilience, and adaptation in the present time.",
+              description: "The rising cost of goods and services in the Philippines impacts how Filipinos experience their daily lives, from the sensory adjustments of cutting back on food choices to the emotional stress of financial strain. This topic examines how inflation shapes feelings of anxiety, resilience, and adaptation in the present time.",
               images: [
               require("@/assets/gallery 1/inflation.png"),
               ],
