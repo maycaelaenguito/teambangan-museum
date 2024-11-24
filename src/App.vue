@@ -128,7 +128,7 @@ export default {
       sections: [
         {
           intro: "Key Events/Highlights",
-          subintro: "This section covers major moments, including significant events, memorable releases, and milestones that have captured public interests.",
+          subintro: "From the vibrant energy of festivals like Sinulog to groundbreaking achievements in music, film, and sports, these events capture the spirit of the Philippines. Each one tells a story of celebration, triumph, and the unique way Filipinos come together to honor their heritage and showcase their talents to the world.",
         },
         {
           title: "2000-2010",
@@ -289,7 +289,7 @@ export default {
         },
         {
           intro: "Aspect Focus: Affect Senses & Feelings",
-          subintro: "Here, we explore key features such as creative expressions, the role of technology, media platforms, and the stories that bring people together.",
+          subintro: "From the joyful chaos of colorful festivals to the bittersweet melodies of hugot songs, every moment is designed to move the heart and awaken the senses. Imagine the comfort of traditional dishes, the warmth of a Filipino smile, or the raw emotion in a teleserye scene. Here, we explore how sights, sounds, tastes, and feelings come together to tell stories, evoke memories, and create connections that resonate deeply with the Filipino soul.",
         },
         {
           title: "2000-2010",
@@ -448,7 +448,7 @@ export default {
         },
         {
           intro: "Aspect Focus: Body and Self Image",
-          subintro: "Here, we explore key features such as creative expressions, the role of technology, media platforms, and the stories that bring people together.",
+          subintro: "From traditional beauty standards influenced by history and media to the rise of body positivity and self-love movements, this journey explores how perceptions are shifting. Imagine the contrasts—skin-whitening ads alongside campaigns celebrating natural skin tones, or fitness goals shaped by both local trends and global influences. Here, every story reflects a culture in transition, balancing deep-rooted ideals with modern conversations about confidence, identity, and self-expression.",
         },
         {
           title: "2000-2010",
@@ -608,7 +608,7 @@ export default {
         },
         {
           intro: "Aspect Focus: Performance",
-          subintro: "Here, we explore key features such as creative expressions, the role of technology, media platforms, and the stories that bring people together.",
+          subintro: "Celebrate the art of performance—where every dance, every song, every act tells a story of passion and pride. Picture the vibrant moves of sinulog dancers, the powerful emotions in teleseryes, or the energy of live concerts and street festivals. Even in the digital world, performances thrive, from viral skits to online concerts. Each one is a glimpse into the soul of the Philippines—a culture that loves to express, connect, and shine.",
         },
         {
           title: "2000-2010",
@@ -765,7 +765,7 @@ export default {
         },
         {
           intro: "Overall Observable Trends",
-          subintro: "This section identifies broader patterns and recurring themes, highlighting how societal changes, technology, and audience preferences shape the landscape.",
+          subintro: "Explore the patterns shaping how Filipinos live, create, and connect. From the rise of K-pop and binge-worthy dramas to the growing influence of social media and streaming platforms, you'll see how global and local influences blend seamlessly. Discover how traditional values meet modern lifestyles, how OPM continues to evolve, and how gaming and digital trends are reshaping youth culture. These trends are like pieces of a puzzle, showing the ever-changing story of the Filipino spirit.",
         },
         {
           title: "2000-2010",
@@ -1031,7 +1031,7 @@ export default {
     getBackgroundStyle(index) {
       const backgrounds = [
         { type: 'image', value: require("@/assets/bg/redcover.png")}, 
-        { type: 'image', value: require("@/assets/1.png")},
+        { type: 'image', value: require("@/assets/bg/1.png")},
         { type: 'image', value: require("@/assets/bg/2.png")}, 
         { type: 'image', value: require("@/assets/bg/3.png")},
         { type: 'image', value: require("@/assets/bg/redcover.png")},
