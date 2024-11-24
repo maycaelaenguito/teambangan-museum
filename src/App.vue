@@ -435,7 +435,7 @@ export default {
               image: require("@/assets/section 1/cover.png"),
               description: "Tncreasing visibility and acceptance of LGBTQ+ individuals in the Philippines are reshaping societal interactions and personal relationships. This topic examines how this shift affects emotional experiences, such as empowerment or stigma, and sensory expressions in events like Pride marches, media representation, and inclusive spaces.",
               images: [
-              require("@/assets/gallery 1/pal1.jpg"),
+              require("@/assets/gallery 6/lgbtq.webp"),
               ],
             },
           ],
