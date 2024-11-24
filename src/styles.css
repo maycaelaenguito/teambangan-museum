@@ -28,6 +28,12 @@
   }
 }
 
+@media screen and (min-width: 1280px){
+  .hide{
+    display: none;
+  }
+}
+
   html, body, section, .museum-section{
     block-size: 100%;
     margin: 0;
