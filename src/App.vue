@@ -38,6 +38,7 @@
         <!-- Content Sections -->
         <section class="sections-container">
           <div
+            rel="preload"
             v-for="(section, sectionIndex) in sections"
             :key="sectionIndex"
             class="museum-section"
@@ -52,6 +53,7 @@
               <span class="intro">{{ section.intro }}</span>
             <div class="subsections">
               <div
+                rel="preload"
                 v-for="(subsection, subsectionIndex) in section.subsections"
                 :key="subsectionIndex"
                 class="subsection"
@@ -101,6 +103,7 @@
         <p class="description">{{ activeRoom.description }}</p>
         <div class="images-container">
           <img
+            rel="preload"
             v-for="(image, index) in activeRoom.images"
             :key="index"
             :src="image"
