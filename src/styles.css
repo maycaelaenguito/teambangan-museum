@@ -28,8 +28,6 @@
   }
 }
 
-
-
   html, body, section, .museum-section{
     block-size: 100%;
     margin: 0;
@@ -76,14 +74,7 @@
   }
 
   .museum-header, .group-section, section, .museum-section{
-    height: 100vh;
-  }
-
-  .intro{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
+    min-height: 100vh;
   }
 
   .museum-header h1{
@@ -180,6 +171,9 @@
 
   .sections-container h3{
     font-family: "Inter", sans-serif;
+  }
+
+  .sections-container h3{
     font-weight: 400;
     font-size: 3rem;
     padding-bottom: 5rem;
@@ -192,11 +186,11 @@
   }
   
   .museum-section {
-    padding:  0 10%;
+    padding:  0 5%;
     color: black;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: baseline;
     align-items: center;
   }
 
@@ -367,9 +361,42 @@
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     flex-wrap: wrap;
-    gap: 2rem;
+    gap: 2px;
   }
 
   .reference-container li{
-    font-size: .8rem;
+    font-size: .6rem;
+    color: #ffffff;
+  }
+
+  .sections-container h5{
+    color: #ffffff;
+    font-size: 2rem;
+  }
+
+  .museum-section .intro{
+    margin-top: 1rem;
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 4rem;
+  }
+
+  .museum-section div h3{
+    padding-top: 5rem;
+  }
+
+  .museum-section .subintro p{
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 1.5rem;
+    text-align: center;
+    width: 80%;
+  }
+
+  .subintro {
+    display: flex;
+    justify-content: center;
+    align-items: center;
   }

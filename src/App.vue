@@ -45,43 +45,48 @@
               minHeight: '100vh',
             }"
           >
-            <h3>{{ section.title }}</h3>
-            <p>{{ section.subintro }}</p>
             <div>
+              <h3>{{ section.title }}</h3> 
+              <h5>{{ section.title_white }}</h5></div>
+              <span class="intro">{{ section.intro }}</span>
+            <div class="subsections">
+              <div
+                v-for="(subsection, subsectionIndex) in section.subsections"
+                :key="subsectionIndex"
+                class="subsection"
+                :style="{ backgroundImage: `url(${subsection.image})` }"
+                @click="openVirtualRoom(sectionIndex, subsectionIndex)"
+              >
+                <div class="subsection-title">{{ subsection.title }}</div>
+                <button @click="openVirtualRoom(sectionIndex, subsectionIndex)">
+                  Check Out Room
+                  <svg
+                    xmlns="http://www.w3.org/2000/svg"
+                    width="30"
+                    height="30"
+                    fill="currentColor"
+                    class="bi bi-arrow-right-short"
+                    viewBox="0 0 16 16"
+                  >
+                    <path
+                      fill-rule="evenodd"
+                      d="M4 8a.5.5 0 0 1 .5-.5h5.793L8.146 5.354a.5.5 0 1 1 .708-.708l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L10.293 8.5H4.5A.5.5 0 0 1 4 8"
+                    />
+                  </svg>
+                </button>
+              </div>
+            </div>
+            <div>
+              <div>
               <ul class="reference-container">
                 <li v-for="(ref, index) in section.references" :key="index">
                   {{ ref }}
                 </li>
               </ul>
+              <div class="subintro"><p>{{ section.subintro }}</p></div>
             </div>
-            <div class="subsections">
-        <div
-          v-for="(subsection, subsectionIndex) in section.subsections"
-          :key="subsectionIndex"
-          class="subsection"
-          :style="{ backgroundImage: `url(${subsection.image})` }"
-          @click="openVirtualRoom(sectionIndex, subsectionIndex)"
-        >
-          <div class="subsection-title">{{ subsection.title }}</div>
-          <button @click="openVirtualRoom(sectionIndex, subsectionIndex)">
-            Check Out Room
-            <svg
-              xmlns="http://www.w3.org/2000/svg"
-              width="30"
-              height="30"
-              fill="currentColor"
-              class="bi bi-arrow-right-short"
-              viewBox="0 0 16 16"
-            >
-              <path
-                fill-rule="evenodd"
-                d="M4 8a.5.5 0 0 1 .5-.5h5.793L8.146 5.354a.5.5 0 1 1 .708-.708l3 3a.5.5 0 0 1 0 .708l-3 3a.5.5 0 0 1-.708-.708L10.293 8.5H4.5A.5.5 0 0 1 4 8"
-              />
-            </svg>
-          </button>
-        </div>
+            </div>
       </div>
-    </div>
     </section>
 
     <!-- Virtual Room Modal -->
@@ -117,7 +122,7 @@ export default {
       ],
       sections: [
         {
-          title: "Key Events/Highlights",
+          intro: "Key Events/Highlights",
           subintro: "This section covers major moments, including significant events, memorable releases, and milestones that have captured public interests.",
         },
         {
@@ -278,7 +283,7 @@ export default {
           
         },
         {
-          title: "Aspect Focus: Affect Senses & Feelings",
+          intro: "Aspect Focus: Affect Senses & Feelings",
           subintro: "Here, we explore key features such as creative expressions, the role of technology, media platforms, and the stories that bring people together.",
         },
         {
@@ -437,7 +442,7 @@ export default {
           
         },
         {
-          title: "Aspect Focus: Body and Self Image",
+          intro: "Aspect Focus: Body and Self Image",
           subintro: "Here, we explore key features such as creative expressions, the role of technology, media platforms, and the stories that bring people together.",
         },
         {
@@ -597,7 +602,7 @@ export default {
           ],
         },
         {
-          title: "Aspect Focus: Performance",
+          intro: "Aspect Focus: Performance",
           subintro: "Here, we explore key features such as creative expressions, the role of technology, media platforms, and the stories that bring people together.",
         },
         {
@@ -754,7 +759,7 @@ export default {
           ],
         },
         {
-          title: "Overall Observable Trends",
+          intro: "Overall Observable Trends",
           subintro: "This section identifies broader patterns and recurring themes, highlighting how societal changes, technology, and audience preferences shape the landscape.",
         },
         {
@@ -962,7 +967,7 @@ export default {
           ],
         },
         {
-          title: "References",
+          title_white: "References",
           references: [
             "Rossen, J. (2018, September 13). Antisocial media: the rise and fall of Friendster. Mental Floss. https://www.mentalfloss.com/article/556413/friendster-rise-and-fall-jonathan-abrams?utm_source=chatgpt.com",
             "Wikipedia contributors. (2024, October 30). Friendster. Wikipedia. https://en.wikipedia.org/wiki/Friendster?utm_source=chatgpt.com",
@@ -1044,6 +1049,7 @@ export default {
         { type: 'image', value: require("@/assets/bg/3.png")},
         { type: 'image', value: require("@/assets/bg/4.png")},
         { type: 'image', value: require("@/assets/bg/4.png")},
+        { type: 'image', value: require("@/assets/bg/blackcover.png")},
         { type: 'background-color', value: "white" },
        
       ];
