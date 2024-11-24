@@ -362,25 +362,21 @@
   .reference-container{
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: baseline;
     padding: 0 10%;
   }
 
   .reference-wrapper{
-    display: grid;
-    grid-template-columns: 48% 48%;
-    flex-wrap: wrap;
-    gap: 2rem;
     overflow-y: scroll;
     max-height: 60vh;
 
   }
 
   .reference-wrapper li{
-    font-size: .8rem;
+    font-size: 1rem;
     color: #000;
-    text-wrap: balance;
-    overflow: hidden;
+    word-wrap: break-word;
+    padding: 1rem;
   }
 
  .intro, .closing h1{
@@ -406,7 +402,7 @@
     color: #ffffff;
   }
 
-  .subintro {
+  .subintro{
     display: flex;
     justify-content: center;
     align-items: center;
