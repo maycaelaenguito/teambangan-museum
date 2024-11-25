@@ -824,7 +824,7 @@ export default {
             {
               title: "Integration of Technology in Live Performances",
               subtitle: "Integration of Technology in Live Performances",
-              description: "Filipino concerts, theater productions, and festivals are increasingly incorporating advanced technology like AR, VR, and 3D projections. Events now blend physical and digital experiences to create immersive spectacles that attract tech-savvy audiences. Virtual concerts and hybrid events, which became popular during the pandemic, continue to thrive, allowing performers to connect with audiences both locally and globall",
+              description: "Filipino concerts, theater productions, and festivals are increasingly incorporating advanced technology like AR, VR, and 3D projections. Events now blend physical and digital experiences to create immersive spectacles that attract tech-savvy audiences. Virtual concerts and hybrid events, which became popular during the pandemic, continue to thrive, allowing performers to connect with audiences both locally and globally.",
               images: [
               require("@/assets/gallery 5/technologyinlive.jpg"),
               ],
