@@ -1,9 +1,11 @@
 
 <template>
   <div id="app" class="digital-museum">
+
     <div class="hide">
       <h4>Sorry, this musuem is not accessible to your device. Open it on bigger devices. 1280px above.</h4>
     </div>
+
     <!-- Header Section -->
     <section class="museum-header">
       <h1>Welcome to Ocho-ocho Digital Museum</h1>
@@ -15,7 +17,11 @@
           spirit of the Filipinos.
         </p>
       </div>
-      <button class="header-btn" @click="scrollToNextSectionFromHeader">
+      <!-- Hidden Audio -->
+      <audio ref="audio" :src="audioSrc" preload="auto" muted></audio>
+    
+      <!-- Button to scroll down -->
+      <button class="header-btn" @click="handleButtonClick">
         <svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" fill="currentColor" class="bi bi-chevron-double-down" viewBox="0 0 16 16">
           <path fill-rule="evenodd" d="M1.646 6.646a.5.5 0 0 1 .708 0L8 12.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708"/>
           <path fill-rule="evenodd" d="M1.646 2.646a.5.5 0 0 1 .708 0L8 8.293l5.646-5.647a.5.5 0 0 1 .708.708l-6 6a.5.5 0 0 1-.708 0l-6-6a.5.5 0 0 1 0-.708"/>
@@ -130,6 +136,7 @@
 export default {
   data() {
     return {
+      audioSrc: 'https://res.cloudinary.com/dk3aalcb0/video/upload/v1732495211/Teambangan%20Museum/BG%20Music/20_Minutes_of_Classical_Music_-_Beethoven_-_Music_for_Studying_-_Meditation_-_Relaxing_-_Sleeping_ajp3ug.mp3', 
       coverImage: 'https://res.cloudinary.com/dk3aalcb0/image/upload/v1732493493/Teambangan%20Museum/BG%20Covers/cover_v9nd2b.png',
       groupName: "Built and Presented by Teambangan",
       groupMembers: [
@@ -950,12 +957,26 @@ export default {
     appContainer.addEventListener("wheel", this.handleMouseWheel, {
       passive: false,
     });
+
+    this.playAudio();
   },
   beforeUnmount() {
     const appContainer = document.getElementById("app");
     appContainer.removeEventListener("wheel", this.handleMouseWheel);
   },
   methods: {
+    async playAudio() {
+      try {
+        const audio = this.$refs.audio;
+        audio.muted = false; // Unmute the audio after starting
+        await audio.play();
+        console.log('Audio playback started automatically.');
+      } catch (error) {
+        console.error('Autoplay failed, waiting for user interaction.', error);
+        this.promptForPlayback();
+      }
+    },
+    
     getBackgroundStyle(index) {
       const backgrounds = [
         { type: 'image', value: 'https://res.cloudinary.com/dk3aalcb0/image/upload/v1732492121/Teambangan%20Museum/BG%20Covers/redcover_sfwfpp.png'}, 
@@ -995,6 +1016,21 @@ export default {
       }
 
       return { backgroundColor: '#FFFFFF' }; // Default fallback
+    },
+
+    async handleButtonClick() {
+      // Play the audio
+      try {
+        const audio = this.$refs.audio;
+        audio.muted = false; // Unmute the audio
+        await audio.play();
+        console.log('Audio playback started.');
+      } catch (error) {
+        console.error('Audio playback failed:', error);
+      }
+
+      // Scroll to the next section
+      this.scrollToNextSectionFromHeader();
     },
     scrollToNextSectionFromHeader() {
       const target = document.getElementById("group-section"); // Ensure ID matches
