@@ -109,7 +109,13 @@
   }
 
   .header-btn{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     margin-top: 4rem;
+    text-align: center;
+    text-wrap: nowrap;
     animation: pulse 1s infinite;
   }
 
@@ -118,7 +124,7 @@
       transform: scale(1);
     }
     50% {
-      transform: scale(1.4);
+      transform: scale(1.2);
     }
     100% {
       transform: scale(1);
@@ -397,7 +403,7 @@
   .loom-companion-mv3{
     display: none !important;;
   }
-  
+
   .museum-section div h3{
     padding-top: 5rem;
   }
