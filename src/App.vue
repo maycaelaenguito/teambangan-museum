@@ -147,6 +147,7 @@ export default {
       ],
       title_white: "References",
       references: [
+            "KNBBS. (n.d.). The evolution of Filipino pop culture: A look back at the 90s and 2000s. Retrieved from https://www.knbbs.com/the-evolution-of-filipino-pop-culture-a-look-back-at-the-90s-and-2000s/",
             "Rossen, J. (2018, September 13). Antisocial media: the rise and fall of Friendster. Mental Floss. https://www.mentalfloss.com/article/556413/friendster-rise-and-fall-jonathan-abrams?utm_source=chatgpt.com",
             "Wikipedia contributors. (2024, October 30). Friendster. Wikipedia. https://en.wikipedia.org/wiki/Friendster?utm_source=chatgpt.com",
             "Natividad, N. (2015, July 2). A history of the BPO industry in numbers. RAPPLER. https://www.rappler.com/brandrap/profiles-and-advocacies/98207-bpo-philippines-timeline/?utm_source=chatgpt.com",
@@ -190,9 +191,9 @@ export default {
           subsections: [
           {
               title: "Social",
-              subtitle: "Friendster",
+              subtitle: "Major Social Events in the Philippines from 2000 to 2010",
               description:
-                "Friendster, founded in 2002 by Jonathan Abrams, was among the pioneering social networking platforms, quickly amassing over 3 million users within months of its 2003 launch. Despite early success, it declined due to technical issues and competition from emerging platforms like MySpace and Facebook. In 2003, Friendster declined a $30 million acquisition offer from Google, a decision later viewed as a significant misstep. By 2008, the platform had over 115 million registered users, primarily in Asia. In 2009, it was acquired by Malaysia-based MOL Global for $26.4 million. Subsequently, in 2010, Facebook purchased Friendster's patents for $40 million.",
+                "The decade from 2000 to 2010 was transformative for the Philippines, marked by significant social and cultural developments. In 2001, the People Power II movement led to the ousting of President Joseph Estrada, highlighting the power of mass mobilization and the role of technology in political activism. The Philippines earned the title 'Texting Capital of the World,' with mobile phones revolutionizing communication and social interactions. Overseas Filipino Workers (OFWs) became increasingly vital to the economy, with remittances providing substantial support to families and contributing to national GDP. Environmental challenges, notably Typhoon Ondoy in 2009, exposed vulnerabilities in urban infrastructure and prompted discussions on disaster preparedness and resilience. The rise of Filipino telenovelas and the early adoption of social media began reshaping cultural consumption and global engagement.",
               images: [
               require("@/assets/section 1/63e303445030a75e83d8d0fe_friendster-min.webp"),
 
@@ -200,32 +201,32 @@ export default {
             },
             {
               title: "Economic",
-              subtitle: "BPO growth and PH becomes BPO capital in 2010",
-              description: "Between 2000 and 2010, the Philippines experienced significant growth in its Business Process Outsourcing (BPO) industry, transforming into a global leader in the sector. In 2000, the BPO industry contributed a modest 0.075% to the country's Gross Domestic Product (GDP). By 2005, this figure had risen to 2.4%, with the Philippines capturing over 3% of the global BPO market. The industry's expansion was driven by factors such as a highly skilled, English-proficient workforce and competitive labor costs. In 2010, the Philippines was declared the world's BPO capital, employing approximately 525,000 individuals and generating $8.9 billion in revenue. This rapid growth was further supported by government initiatives, including the establishment of the Philippine Economic Zone Authority (PEZA), which offered tax incentives and streamlined processes to attract foreign investors. The BPO sector's expansion significantly contributed to the country's economic development during this period.",
+              subtitle: "Major Economic Events in the Philippines from 2000 to 2010",
+              description: "The 2000s were a period of significant economic changes for the Philippines. The role of Overseas Filipino Workers (OFWs) became increasingly critical, with remittances peaking at record levels and serving as a primary driver of economic growth, accounting for a substantial share of the GDP. The rise of the Business Process Outsourcing (BPO) industry positioned the Philippines as a global outsourcing hub, generating thousands of jobs and boosting urban economies. The 2008 Global Financial Crisis had a mixed impact on the country. While it slowed economic growth, the Philippines showed resilience due to strong remittance inflows and a less-exposed financial sector. Infrastructure development also expanded during this period, with public and private investments fueling urban growth and modernization. The Philippine economy in the 2000s was characterized by rapid urbanization, increased consumer spending, and efforts to improve global trade relations, setting the foundation for sustained growth in the following decades.",
               images: [
               require("@/assets/gallery 1/bpo.jpg"),
               ],
             },
             {
               title: "Political",
-              subtitle: "2000s violence by extremists",
-              description: "Between 2000 and 2010, the Philippines faced significant extremist violence, primarily from groups like Abu Sayyaf and the New People's Army (NPA). In 2000, Abu Sayyaf conducted high-profile kidnappings, including the abduction of 21 individuals from Malaysia's Sipadan Island, leading to a Philippine court sentencing 17 militants to life imprisonment in 2024. In 2001, the group seized hostages from the Dos Palmas resort in Palawan, resulting in the deaths of American missionary Martin Burnham and Filipino nurse Ediborah Yap during a rescue attempt in 2002. The NPA, designated a Foreign Terrorist Organization by the U.S. in 2002, continued its insurgency, with activities peaking in 2007, making it the largest group behind terrorist attacks in the country. These events underscored the persistent threat of extremist violence in the Philippines during the decade.",
+              subtitle: "Major Political Events in the Philippines from 2000 to 2010",
+              description: "The decade began with the People Power II revolution in 2001, which led to the ousting of President Joseph Estrada amid allegations of corruption and abuse of power, highlighting the nation's capacity for peaceful democratic uprisings. Gloria Macapagal-Arroyo succeeded him, serving a tumultuous presidency marked by economic reforms, political controversies, and allegations of electoral fraud, particularly the 'Hello Garci' scandal in 2005. In 2009, the Maguindanao Massacre shocked the nation and drew international attention to the perils of political dynasties and warlordism in local governance. This gruesome event underscored the urgent need for political reform to address impunity and violence in elections. The same year saw the announcement of then-Senator Benigno 'Noynoy' Aquino III's candidacy for the presidency, catalyzing political discourse leading to the 2010 elections. These events reflected both the challenges and resilience of the Philippine political landscape, demonstrating the importance of democratic institutions and civic engagement in shaping the country's future.",
               images: [
               require("@/assets/gallery 1/extrem.webp"),
               ],
             },
             {
               title: "Cultural",
-              subtitle: "Signing of the Philippine Cultural Heritage Act of 2009",
-              description: "In March 2010, the Philippines enacted Republic Act No. 10066, known as the National Cultural Heritage Act of 2009.  This legislation established the Philippine Registry of Cultural Property (PRECUP) to catalog and protect the nation's cultural assets. It also mandated the preservation of historic structures over 50 years old and strengthened the National Commission for Culture and the Arts (NCCA) along with its affiliated agencies. The Act was a response to incidents like the 2000 demolition of the Manila Jai Alai Building, aiming to prevent similar losses of cultural heritage.",
+              subtitle: "Major Cultural Events in the Philippines from 2000 to 2010",
+              description: "The 2000s were a vibrant decade for Philippine culture, marked by the blending of tradition and modernity. The rise of Filipino telenovelas such as Pangako Sa'Yo and Mulawin captivated audiences and became cultural phenomena, reflecting local values while redefining the entertainment industry. Filipino cinema also saw a resurgence of independent films, with works like Ang Pagdadalaga ni Maximo Oliveros receiving international acclaim, showcasing the depth and creativity of local filmmakers. The 2000s also witnessed the expansion of Filipino music, with Original Pilipino Music (OPM) flourishing through artists like Sarah Geronimo and bands such as Bamboo and Parokya ni Edgar, blending traditional and contemporary influences. The global spread of Filipino cuisine also gained momentum, driven by overseas communities introducing dishes like adobo and sinigang to international audiences. Cultural festivals like the Sinulog and Panagbenga gained wider recognition during this time, drawing local and international tourists, while social media and digital platforms began influencing how Filipinos engaged with global trends and preserved their cultural identity. This period reflected the dynamism and resilience of Filipino culture in a rapidly changing world.",
               images: [
               require("@/assets/gallery 1/heritage.webp"),
               ],
             },
             {
               title: "Environmental ",
-              subtitle: "Tropical Storm Ondoy 2009",
-              description: "On September 26, 2009, Tropical Storm Ondoy (internationally known as Ketsana) struck the Philippines, bringing an unprecedented 455 millimeters of rainfall within 24 hours, the highest recorded in 42 years. This deluge led to severe flooding across Metro Manila and surrounding provinces, with waters reaching up to 20 feet in some areas. The disaster affected over 9.3 million people, resulted in 956 fatalities, and caused extensive damage to infrastructure and agriculture. In response, the government declared a state of calamity in Metro Manila and 25 provinces, mobilizing resources for rescue and relief operations. The event highlighted the need for improved disaster preparedness and climate resilience in the Philippines.",
+              subtitle: "Environmental Events in the Philippines from 2000 to 2010",
+              description: "In 2004, the Payatas dumpsite tragedy highlighted the urgent need for sustainable waste management practices after heavy rains caused a landslide that killed hundreds. Typhoon Ondoy in 2009 devastated Metro Manila and nearby provinces, flooding vast areas and displacing thousands, bringing to light the country's vulnerability to climate change and the inadequacies of urban planning and infrastructure. During this period, reforestation efforts gained momentum, with programs like the National Greening Program aiming to combat deforestation and its impact on biodiversity. The Philippines also became more active in international environmental agreements, emphasizing its commitment to addressing global climate issues. Public awareness campaigns and grassroots movements grew stronger, advocating for waste reduction, renewable energy, and sustainable practices, setting the stage for more robust environmental policies in the following years.",
               images: [
               require("@/assets/gallery 1/ondoy.jpeg"),
               ],
