@@ -193,9 +193,9 @@ export default {
               title: "Social",
               subtitle: "Major Social Events in the Philippines from 2000 to 2010",
               description:
-                "The decade from 2000 to 2010 was transformative for the Philippines, marked by significant social and cultural developments. In 2001, the People Power II movement led to the ousting of President Joseph Estrada, highlighting the power of mass mobilization and the role of technology in political activism. The Philippines earned the title 'Texting Capital of the World,' with mobile phones revolutionizing communication and social interactions. Overseas Filipino Workers (OFWs) became increasingly vital to the economy, with remittances providing substantial support to families and contributing to national GDP. Environmental challenges, notably Typhoon Ondoy in 2009, exposed vulnerabilities in urban infrastructure and prompted discussions on disaster preparedness and resilience. The rise of Filipino telenovelas and the early adoption of social media began reshaping cultural consumption and global engagement.",
+                "The decade from 2000 to 2010 was transformative for the Philippines, marked by significant social and cultural developments. In 2001, the People Power II movement led to the ousting of President Joseph Estrada, highlighting the power of mass mobilization and the role of technology in political activism. The Philippines earned the title 'Texting Capital of the World,' with mobile phones revolutionizing communication and social interactions. Overseas Filipino Workers (OFWs) became increasingly vital to the economy, with remittances providing substantial support to families and contributing to national GDP. Environmental challenges. The rise of Filipino telenovelas and the early adoption of social media began reshaping cultural consumption and global engagement.",
               images: [
-              require("@/assets/section 1/63e303445030a75e83d8d0fe_friendster-min.webp"),
+              require("@/assets/section 1/mpm00jz5k0101.webp"),
 
               ],
             },
@@ -212,7 +212,7 @@ export default {
               subtitle: "Major Political Events in the Philippines from 2000 to 2010",
               description: "The decade began with the People Power II revolution in 2001, which led to the ousting of President Joseph Estrada amid allegations of corruption and abuse of power, highlighting the nation's capacity for peaceful democratic uprisings. Gloria Macapagal-Arroyo succeeded him, serving a tumultuous presidency marked by economic reforms, political controversies, and allegations of electoral fraud, particularly the 'Hello Garci' scandal in 2005. In 2009, the Maguindanao Massacre shocked the nation and drew international attention to the perils of political dynasties and warlordism in local governance. This gruesome event underscored the urgent need for political reform to address impunity and violence in elections. The same year saw the announcement of then-Senator Benigno 'Noynoy' Aquino III's candidacy for the presidency, catalyzing political discourse leading to the 2010 elections. These events reflected both the challenges and resilience of the Philippine political landscape, demonstrating the importance of democratic institutions and civic engagement in shaping the country's future.",
               images: [
-              require("@/assets/gallery 1/extrem.webp"),
+              require("@/assets/section 1/Estradawithoutcaption.webp"),
               ],
             },
             {
