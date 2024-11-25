@@ -335,12 +335,12 @@ export default {
           title: "2000-2010",
           subsections: [
           {
-              title: "The Wowowee Stampede",
-              subtitle: "The Wowowee Stampede",
+              title: "'Huwag Na Huwag Mong Sasabihin' by Kitchie Nadal",
+              subtitle: "'Huwag Na Huwag Mong Sasabihin' by Kitchie Nadal",
               description:
-                "The PhilSports Stadium Stampede (also referred to as the ULTRA stampede or the Wowowee stampede) was a crowd crush that occurred at the PhilSports Stadium (also known as the ULTRA) in Pasig, Metro Manila in the Philippines on February 4, 2006. It killed 73 people and injured about 400. About 30,000 people had gathered outside the stadium waiting to participate in the first anniversary episode of the former television variety show Wowowee.",
+                "'Huwag Na Huwag Mong Sasabihin' by Kitchie Nadal, released in 2004, is a song about the anguish of unspoken emotions and the fear of losing someone you deeply care about. Its straightforward yet poignant lyrics resonated with listeners who were navigating heartbreak and unrequited love during the 2000s. The song became an anthem for emotional vulnerability, leaving a significant impact on OPM fans by validating their pain and struggles in love. It gained massive airplay and solidified Kitchie Nadal's place as one of the most iconic artists of the era.",
               images: [
-              require("@/assets/gallery 1/1_16a082288a7.1665217_806339932_16a082288a7_large.jpg"),
+              require("@/assets/gallery 1/kitchie.jpg"),
               ],
             },
             {
