@@ -394,6 +394,10 @@
     color: #ffffff;
   }
 
+  .loom-companion-mv3{
+    display: none !important;;
+  }
+  
   .museum-section div h3{
     padding-top: 5rem;
   }
