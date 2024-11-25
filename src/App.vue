@@ -141,8 +141,8 @@ export default {
       coverImage: 'https://res.cloudinary.com/dk3aalcb0/image/upload/v1732493493/Teambangan%20Museum/BG%20Covers/cover_v9nd2b.png',
       groupName: "Built and Presented by Teambangan",
       groupMembers: [
-        "Jhan Philippe Moloa",
         "Maycaela Enguito",
+        "Jhan Philippe Moloa",
         "Jether Daniel Torres",
       ],
       title_white: "References",
