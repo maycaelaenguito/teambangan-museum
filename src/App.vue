@@ -1049,7 +1049,7 @@ export default {
         { type: 'image', value: 'https://res.cloudinary.com/dk3aalcb0/image/upload/v1732492121/Teambangan%20Museum/BG%20Covers/redcover_sfwfpp.png'}, 
         { type: 'image', value: 'https://res.cloudinary.com/dk3aalcb0/image/upload/v1732492791/Teambangan%20Museum/BG%20Covers/7_fvl4pd.png'}, 
         { type: 'image', value: 'https://res.cloudinary.com/dk3aalcb0/image/upload/v1732492796/Teambangan%20Museum/BG%20Covers/8_jadv1m.png'}, 
-        { type: 'image', value: 'https://res.cloudinary.com/dk3aalcb0/image/upload/v1732492107/Teambangan%20Museum/BG%20Covers/9_xvedws.png'}, 
+        { type: 'image', value: 'https://res.cloudinary.com/dk3aalcb0/image/upload/v1732493116/Teambangan%20Museum/BG%20Covers/9_hdegd_ewy0pd.png'}, 
         { type: 'image', value: 'https://res.cloudinary.com/dk3aalcb0/image/upload/v1732492121/Teambangan%20Museum/BG%20Covers/redcover_sfwfpp.png'}, 
         { type: 'image', value: 'https://res.cloudinary.com/dk3aalcb0/image/upload/v1732492114/Teambangan%20Museum/BG%20Covers/10_cscizq.png'}, 
         { type: 'image', value: 'https://res.cloudinary.com/dk3aalcb0/image/upload/v1732492791/Teambangan%20Museum/BG%20Covers/11_xzcgnv.png'}, 
